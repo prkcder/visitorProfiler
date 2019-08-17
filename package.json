@@ -1,0 +1,17 @@
+{
+  "name": "visitorapi",
+  "version": "1.0.0",
+  "description": "return visitor api info if available",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Learo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "forever-monitor": "^1.7.1",
+    "nodemailer": "^4.6.7",
+    "nodemon": "^1.18.2"
+  }
+}

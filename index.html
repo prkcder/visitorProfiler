@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css">
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script type="text/javascript" src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/list.js/1.5.0/list.min.js"></script>
+    <link rel="stylesheet" href="public/css/dash.css">
+    <style>
+    </style>
+<script>utag_data = {};window.utag_cfg_ovrd = {noview : true}</script>
+<script type="text/javascript">
+
+        (function(a,b,c,d){
+        a='//tags.tiqcdn.com/utag/tealiumlabs/commerce/prod/utag.js';
+        b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.
+        async=true;
+        a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+        })();
+
+</script>
+  </head>
+
+  <body class="container-fluid">
+<header id="header" class="page-header ">
+	<div style="height:30px;background-color:#3399cc;"></div>
+    <div class="page-header-container">
+        <a class="logo" href="http://visitor.tealiumecommerce.com/">
+            <img src="http://www.tealiumecommerce.com/skin/frontend/rwd/default/images/media/logo.png" alt="TealiumEcommerce Demo" class="large">
+        </a>
+	</div>
+</header>
+    <nav class="navbar navbar-expand-lg navbar-light justify-content-between text-center">
+        <div class="collapse navbar-collapse form-inline">
+          <ul class="navbar-nav mr-auto">
+            <select id="ddOption">
+              <option>Tealium First Party ID</option>
+              <option>Email</option>
+            </select>
+            <label for="inputID" class="sr-only">Visitor ID</label>
+            <input type="id" id="inputID" class="iform-inline my-2 my-lg-0 mr-md-2 form-control" placeholder="Visitor ID" required="true" autofocus="">
+            <button id="submit" class="btn btn-lg btn-success btn-block my-2 my-sm-0" type="submit">Get My Data</button>
+            <button id="delete" class="btn btn-lg btn-danger btn-block my-2 my-sm-0" type="submit">Delete My Data</button>
+          </ul>
+        </div>
+    </nav>
+    <div class="container mt-3">
+      <div id="visitorProfileLoad" class="modal">
+        <div class="modal-dialog modal-dialog-centered">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h4 class="modal-title">Loading!</h4>
+              <button type="button" class="close" data-dismiss="modal">x</button>
+            </div>
+            <div class="modal-body">Loading Your Visitor Profile...</div>
+          </div>
+        </div>
+      </div>
+      <div id="visitorProfilePending" class="modal">
+        <div class="modal-dialog modal-dialog-centered">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h4 class="modal-title">Pending!</h4>
+              <button type="button" class="close" data-dismiss="modal">x</button>
+            </div>
+            <div class="modal-body">Processing Your Visitor Profile...</div>
+          </div>
+        </div>
+      </div>
+      <div id="visitorProfileSuccess" class="modal">
+        <div class="modal-dialog modal-dialog-centered">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h4 class="modal-title">Success!</h4>
+              <button type="button" class="close" data-dismiss="modal">x</button>
+            </div>
+            <div class="modal-body">Visitor Profile Successfully Saved and Displayed...</div>
+          </div>
+        </div>
+      </div>
+      <div id="visitorProfileFail" class="modal">
+        <div class="modal-dialog modal-dialog-centered">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h4 class="modal-title">Warning!</h4>
+              <button type="button" class="close" data-dismiss="modal">x</button>
+            </div>
+            <div class="modal-body">There was a problem handling your visitor profile...</div>
+          </div>
+        </div>
+      </div>
+      <div id="search" class="form-inline">
+        <input id="search-field" class="search form-control" placeholder="Filter" />
+        <button class="btn btn-light my-2 my-sm-0">by Badges</button>
+        <button class="btn btn-light my-2 my-sm-0">by Behaviors</button>
+        <button class="btn btn-light my-2 my-sm-0">by Orders</button>
+        <button class="btn btn-light my-2 my-sm-0">by Affinities</button>
+        <button id="clearFilter" class="btn btn-secondary my-2 my-sm-0">Clear Filter</button>
+      </div>
+      <div class="card-columns">
+        <div id="attributes">
+          <div id="attributeCards" style="display:none">
+            <ul id="attribute" class="list">
+          </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+<footer class="container-fluid">
+    <script src="public/javascript/all.js"></script>
+    <script>setTimeout(function(){jQuery('#inputID')[0].value = utag_data['tealium_visitor_id'] || "Visitor ID"},500);
+  </script>
+<div class="row"><div class="col" style="border-top: 1px solid #cccccc;text-align: center;font-size: 11px;padding: 30px 0; color:#3399cc;">&copy; 2018 Tealium Inc. All Rights Reserved.</div></div>
+</footer>
+  </body>
+</html>
+

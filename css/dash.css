@@ -1,0 +1,66 @@
+body {
+	background-color:white;
+	height:auto;
+}
+
+footer {
+	padding-top: 20%;
+}
+
+ul.navbar-nav button {
+    margin-right: 10px;
+}
+
+ul.navbar-nav select, ul.navbar-nav input, ul.navbar-nav button {
+    margin-right: 10px;
+}
+div#search {
+    margin-bottom: 2em;
+    width: 100%;
+    display: block;
+}
+
+div#search input {
+  margin-right: 1em;
+}
+div#search button#clearFilter {
+  margin-left: 1em;
+}
+
+
+.container {
+    margin-top: 3em;
+}
+
+.card {
+    border: 1px solid #CCC;
+    padding: 10px;
+    margin-bottom: 20px;
+    box-shadow: 2px 2px 6px rgba(0,0,0,0.1);
+}
+
+.list > li {
+    background: none;
+    list-style: none;
+}
+
+.card h2 {
+    font-size: 0.75em;
+    background-color: #e7e7e7;
+    padding: 6px 10px;
+    width: auto;
+    border-radius: 3px;
+    color: #AAA;
+}
+
+.card-title {
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+.card-text {
+    font-family: monospace;
+    background-color: #FFF;
+    border: 1px solid rgba(0,0,0,0.1);
+    padding: 6px 10px;
+}
