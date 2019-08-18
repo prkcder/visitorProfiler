@@ -16,6 +16,7 @@ const attributeMappings ={
 	"tealium first party id" : 76
 }
 
+app.use(express.json());
 
 async function n(k, v, res, type){
 	// get token that is required for requesting VP or deleting VP
@@ -61,6 +62,12 @@ function getParts(r){
 app.use('/public',express.static('public'));
 
 app.get('/', (req, res) => res.end(index))
+
+app.get('/mockData', (req, res) => {
+	axios
+		.get('https://e2nkh9bvqg.execute-api.us-east-2.amazonaws.com/prod/visitorSampler?count=1')
+		.then( response => res.send(response.data));
+});
 
 app.get('/getData', (req,res) => {
 	let [url_parts, query, key, value] = getParts(req);
