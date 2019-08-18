@@ -37,8 +37,10 @@
   const filterData = () => {
     fetch('/mockData')
       .then(res => res.json())
-      // .then(result => result.filter( purchaseA => minions.type === 'Minion'))
+      // .then(result => result.filter( purchasePants => purchasePants.sales))
+      // .then(result => document.getElementById('pantsDiv').innerHTML = result)
       .then(result => console.log(result))
+
   }
 </script>
 
@@ -51,12 +53,17 @@
             </select>
             <label for="inputID" class="sr-only">Visitor ID</label>
             <input type="id" id="inputID" class="iform-inline my-2 my-lg-0 mr-md-2 form-control" placeholder="Visitor ID" required="true" autofocus="">
-            <button onClick='filterData()'>Click me for a good time</button>
+            <button class="btn btn-lg btn-primary btn-block my-2 my-sm-0" onClick='filterData()'>Click me for a good time</button>
             <button id="submit" class="btn btn-lg btn-success btn-block my-2 my-sm-0" type="submit">Get My Data</button>
             <button id="delete" class="btn btn-lg btn-danger btn-block my-2 my-sm-0" type="submit">Delete My Data</button>
           </ul>
         </div>
     </nav>
+    <div 
+      id='pantsDiv'
+    >
+
+    </div>
     <div class="container mt-3">
       <div id="visitorProfileLoad" class="modal">
         <div class="modal-dialog modal-dialog-centered">

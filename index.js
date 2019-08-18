@@ -6,7 +6,8 @@ const express = require('express'),
 	getToken = require('./token.js'),
 	deleteVP = require('./deleteVP.js'),
 	requestVP = require('./requestVP.js'),
-	axios = require('axios')
+	axios = require('axios'),
+	mockData = require('./allusersprofiledata.json')
 ;
 
 const index = fs.readFileSync('index.html');
@@ -64,9 +65,7 @@ app.use('/public',express.static('public'));
 app.get('/', (req, res) => res.end(index))
 
 app.get('/mockData', (req, res) => {
-	axios
-		.get('https://e2nkh9bvqg.execute-api.us-east-2.amazonaws.com/prod/visitorSampler?count=1')
-		.then( response => res.send(response.data));
+	res.json(mockData);
 });
 
 app.get('/getData', (req,res) => {
