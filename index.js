@@ -1,11 +1,13 @@
 const express = require('express'),
-	  app = express(),
-	  url = require('url'),
-	  fs = require('fs'),
-	  includeKeys = require('./.config')['includeKeys'],
-	  getToken = require('./token.js'),
-	  deleteVP = require('./deleteVP.js'),
-	  requestVP = require('./requestVP.js');
+	app = express(),
+	url = require('url'),
+	fs = require('fs'),
+	includeKeys = require('./.config')['includeKeys'],
+	getToken = require('./token.js'),
+	deleteVP = require('./deleteVP.js'),
+	requestVP = require('./requestVP.js'),
+	axios = require('axios')
+;
 
 const index = fs.readFileSync('index.html');
 
