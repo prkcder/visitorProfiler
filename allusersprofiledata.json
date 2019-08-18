@@ -1,0 +1,3898 @@
+[
+    [
+    {
+        "audiences": [
+            "Big Spender",
+            "VIP"
+        ],
+        "audiences_joined_at": {
+            "Big Spender": "2019-01-23T12:20:10.250Z",
+            "VIP": "2019-06-11T16:24:30.200Z"
+        },
+        "badges": [
+            "Repeated Buyer"
+        ],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": true,
+            "Has purchased > 10 items": true,
+            "Is subsribed to newsletter": true
+        },
+        "metrics": {
+            "lat": 32.97780611892807,
+            "long": -116.82598505247992,
+            "Average Purchase Value": 43.1875,
+            "Average Value Per Visit": 76.77777777777777,
+            "Lifetime total value": 691,
+            "Lifetime purchases": 16,
+            "Days since last visit": 3,
+            "Discount page views": 1,
+            "New arrival page views": 7,
+            "Hat page views": 2,
+            "Jeans page views": 14,
+            "Accesories page views": 18,
+            "Lifetime visits": 9,
+            "Lifetime Direct Visits": 3,
+            "Lifetime Referred Visits": 6,
+            "Lifetime events": 15,
+            "Total time spent on site in minutes": 155,
+            "Number of logins - Past 90 days": 2,
+            "Future Lifetime Value 12 Months": 1341.3385597446445,
+            "Future Lifetime Value": 1357.7324150347047,
+            "Products Purchased": [
+                {
+                    "Item Name": "Dope t-shirt",
+                    "Item Code": "2398498123478",
+                    "Quantity": 3,
+                    "Price": 20.19                
+                }
+            ]
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "IE",
+            "Lifetime devices used (favorite)": "iPad",
+            "Favorite Top Level Category": "Men",
+            "Email": "alex@gmail.com",
+            "visitor_id": "9b876d00-a9a2-4c4b-bc7e-19a43b7ed978"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": true
+            },
+            "properties": {
+                "Active Browser": "Other",
+                "Active Device": "iPad",
+                "Entry URL": "http://www.acme.com/product/about.html"
+            },
+            "dates": {
+                "Entry Time": 1566142195188
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Discount Shopper",
+            "Window Shopper"
+        ],
+        "audiences_joined_at": {
+            "Discount Shopper": "2019-04-23T12:20:10.250Z",
+            "Window Shopper": "2019-06-11T16:24:30.200Z"
+        },
+        "badges": [
+            "Discount Finder",
+            "Low Interest",
+            "Sales Only"
+        ],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": true,
+            "Has purchased > 10 items": false,
+            "Is subsribed to newsletter": false
+        },
+        "metrics": {
+            "lat": 32.97788485629865,
+            "long": -116.92639353468395,
+            "Average Purchase Value": 146.33333333333334,
+            "Average Value Per Visit": 219.5,
+            "Lifetime total value": 878,
+            "Lifetime purchases": 6,
+            "Days since last visit": 2,
+            "Discount page views": 6,
+            "New arrival page views": 1,
+            "Hat page views": 3,
+            "Jeans page views": 8,
+            "Accesories page views": 10,
+            "Lifetime visits": 4,
+            "Lifetime Referred Visits": 3,
+            "Lifetime events": 19,
+            "Total direct visits": 2,
+            "Total time spent on site in minutes": 182,
+            "Number of logins - Past 90 days": 6,
+            "Future Lifetime Value 12 Months": 923.4289204061824,
+            "Future Lifetime Value": 1760.3525810197777,
+            "Products Purchased": [
+                {
+                    "Item Name": "Dope pants",
+                    "Item Code": "2398498123478",
+                    "Quantity": 2,
+                    "Price": 17.76                
+                }
+            ]
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "Chrome",
+            "Lifetime devices used (favorite)": "Mac",
+            "Favorite Top Level Category": "Women",
+            "Email": "bob@gmail.com",
+            "visitor_id": "a0c55fce-9f26-4e98-9b75-ba286b85d3ba"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": false
+            },
+            "properties": {
+                "Active Browser": "Safari",
+                "Active Device": "Mac",
+                "Entry URL": "http://www.acme.com/promo.html"
+            },
+            "dates": {
+                "Entry Time": 1566143515188
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Discount Shopper",
+            "Low Budget"
+        ],
+        "audiences_joined_at": {
+            "Discount Shopper": "2019-02-23T12:20:10.250Z",
+            "Low Budget": "2019-06-11T16:24:30.200Z"
+        },
+        "badges": [
+            "Sales Only",
+            "Occasional Buyer"
+        ],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": false,
+            "Has purchased > 10 items": false,
+            "Is subsribed to newsletter": false
+        },
+        "metrics": {
+            "lat": 32.9777282764843,
+            "long": -117.40165121429327,
+            "Average Purchase Value": 155,
+            "Average Value Per Visit": 47.69230769230769,
+            "Lifetime total value": 620,
+            "Lifetime purchases": 4,
+            "Days since last visit": 5,
+            "Discount page views": 4,
+            "New arrival page views": 6,
+            "Hat page views": 1,
+            "Jeans page views": 14,
+            "Accesories page views": 9,
+            "Lifetime visits": 13,
+            "Lifetime Referred Visits": 11,
+            "Lifetime events": 68,
+            "Total direct visits": 7,
+            "Total time spent on site in minutes": 125,
+            "Number of logins - Past 90 days": 0,
+            "Future Lifetime Value 12 Months": 730.8075896140008,
+            "Future Lifetime Value": 1296.851978243354,
+            "Products Purchased": [
+                {
+                    "Item Name": "Dope socks",
+                    "Item Code": "2398498123478",
+                    "Quantity": 1,
+                    "Price": 10.84                
+                }
+            ]
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "Firefox",
+            "Lifetime devices used (favorite)": "iPad",
+            "Favorite Top Level Category": "Kids",
+            "Email": "mark@gmail.com",
+            "visitor_id": "9de72c47-2643-404c-8c1b-29e5ce07990f"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": true
+            },
+            "properties": {
+                "Active Browser": "Chrome",
+                "Active Device": "Windows",
+                "Entry URL": "http://www.acme.com/product/58"
+            },
+            "dates": {
+                "Entry Time": 1566143275188
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Window Shopper",
+            "Low Budget"
+        ],
+        "audiences_joined_at": {
+            "Window Shopper": "2019-04-23T12:20:10.250Z",
+            "Low Budget": "2019-06-11T16:24:30.200Z"
+        },
+        "badges": [],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": false,
+            "Has purchased > 10 items": false,
+            "Is subsribed to newsletter": true
+        },
+        "metrics": {
+            "lat": 32.978597718225295,
+            "long": -117.0674883554624,
+            "Average Purchase Value": 192.8,
+            "Average Value Per Visit": 482,
+            "Lifetime total value": 964,
+            "Lifetime purchases": 5,
+            "Days since last visit": 5,
+            "Discount page views": 17,
+            "New arrival page views": 7,
+            "Hat page views": 1,
+            "Jeans page views": 8,
+            "Accesories page views": 16,
+            "Lifetime visits": 2,
+            "Lifetime Referred Visits": 1,
+            "Lifetime events": 43,
+            "Total direct visits": 1,
+            "Total time spent on site in minutes": 120,
+            "Number of logins - Past 90 days": 3,
+            "Future Lifetime Value 12 Months": 966.3601593513864,
+            "Future Lifetime Value": 1325.7669342226557
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "Safari",
+            "Lifetime devices used (favorite)": "Mac",
+            "Favorite Top Level Category": "Men",
+            "Email": "alex@gmail.com",
+            "visitor_id": "7d4ee929-0f6c-4bea-ba42-758b28a850a1"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": false
+            },
+            "properties": {
+                "Active Browser": "Other",
+                "Active Device": "iPhone",
+                "Entry URL": "http://www.acme.com/product/about.html"
+            },
+            "dates": {
+                "Entry Time": 1566145555188
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Low Budget",
+            "Window Shopper"
+        ],
+        "audiences_joined_at": {
+            "Low Budget": "2019-06-23T12:20:10.250Z",
+            "Window Shopper": "2019-02-11T16:24:30.200Z"
+        },
+        "badges": [
+            "Sales Only",
+            "Low Interest"
+        ],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": true,
+            "Has purchased > 10 items": false,
+            "Is subsribed to newsletter": false
+        },
+        "metrics": {
+            "lat": 32.97749925581137,
+            "long": -116.97340834762063,
+            "Average Purchase Value": 24.333333333333332,
+            "Average Value Per Visit": 9.733333333333333,
+            "Lifetime total value": 146,
+            "Lifetime purchases": 6,
+            "Days since last visit": 6,
+            "Discount page views": 3,
+            "New arrival page views": 3,
+            "Hat page views": 2,
+            "Jeans page views": 6,
+            "Accesories page views": 11,
+            "Lifetime visits": 15,
+            "Lifetime Referred Visits": 9,
+            "Lifetime events": 37,
+            "Total direct visits": 5,
+            "Total time spent on site in minutes": 141,
+            "Number of logins - Past 90 days": 4,
+            "Future Lifetime Value 12 Months": 184.75676505345282,
+            "Future Lifetime Value": 253.97920702191743
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "Chrome",
+            "Lifetime devices used (favorite)": "Mac",
+            "Favorite Top Level Category": "Kids",
+            "Email": "chris@gmail.com",
+            "visitor_id": "4b54b18c-7191-42cc-8cc0-431ad14aff17"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": false
+            },
+            "properties": {
+                "Active Browser": "Firefox",
+                "Active Device": "iPhone",
+                "Entry URL": "http://www.acme.com/promo.html"
+            },
+            "dates": {
+                "Entry Time": 1566145975188
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Low Budget",
+            "Window Shopper"
+        ],
+        "audiences_joined_at": {
+            "Low Budget": "2019-03-23T12:20:10.250Z",
+            "Window Shopper": "2019-06-11T16:24:30.200Z"
+        },
+        "badges": [
+            "Returning Customer",
+            "Discount Finder",
+            "Occasional Buyer"
+        ],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": false,
+            "Has purchased > 10 items": false,
+            "Is subsribed to newsletter": true
+        },
+        "metrics": {
+            "lat": 32.979774273391826,
+            "long": -117.32210019976473,
+            "Average Purchase Value": 575,
+            "Average Value Per Visit": 52.27272727272727,
+            "Lifetime total value": 575,
+            "Lifetime purchases": 1,
+            "Days since last visit": 3,
+            "Discount page views": 5,
+            "New arrival page views": 16,
+            "Hat page views": 4,
+            "Jeans page views": 7,
+            "Accesories page views": 19,
+            "Lifetime visits": 11,
+            "Lifetime Referred Visits": 1,
+            "Lifetime events": 66,
+            "Total direct visits": 4,
+            "Total time spent on site in minutes": 165,
+            "Number of logins - Past 90 days": 5,
+            "Future Lifetime Value 12 Months": 649.0086370076665,
+            "Future Lifetime Value": 809.2716530927148
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "Firefox",
+            "Lifetime devices used (favorite)": "Windows",
+            "Favorite Top Level Category": "Kids",
+            "Email": "",
+            "visitor_id": "4c1a348a-35c1-49fe-8b55-525e7e4645e3"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": false
+            },
+            "properties": {
+                "Active Browser": "Firefox",
+                "Active Device": "Android",
+                "Entry URL": "http://www.acme.com/product/about.html"
+            },
+            "dates": {
+                "Entry Time": 1566147235188
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Window Shopper",
+            "Low Budget"
+        ],
+        "audiences_joined_at": {
+            "Window Shopper": "2019-04-23T12:20:10.250Z",
+            "Low Budget": "2019-02-11T16:24:30.200Z"
+        },
+        "badges": [
+            "Discount Finder"
+        ],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": false,
+            "Has purchased > 10 items": false,
+            "Is subsribed to newsletter": false
+        },
+        "metrics": {
+            "lat": 32.97865663572055,
+            "long": -116.97326920171756,
+            "Average Purchase Value": 207.75,
+            "Average Value Per Visit": 92.33333333333333,
+            "Lifetime total value": 831,
+            "Lifetime purchases": 4,
+            "Days since last visit": 5,
+            "Discount page views": 18,
+            "New arrival page views": 2,
+            "Hat page views": 3,
+            "Jeans page views": 15,
+            "Accesories page views": 9,
+            "Lifetime visits": 9,
+            "Lifetime Referred Visits": 2,
+            "Lifetime events": 80,
+            "Total direct visits": 3,
+            "Total time spent on site in minutes": 179,
+            "Number of logins - Past 90 days": 0,
+            "Future Lifetime Value 12 Months": 1007.30430452826,
+            "Future Lifetime Value": 1969.74849769407
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "IE",
+            "Lifetime devices used (favorite)": "Mac",
+            "Favorite Top Level Category": "Men",
+            "Email": "",
+            "visitor_id": "4c87ec91-6a79-4274-b97b-f2af097fe200"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": true
+            },
+            "properties": {
+                "Active Browser": "Safari",
+                "Active Device": "Android",
+                "Entry URL": "http://www.acme.com/login.html"
+            },
+            "dates": {
+                "Entry Time": 1566145195188
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Low Budget",
+            "Discount Shopper"
+        ],
+        "audiences_joined_at": {
+            "Low Budget": "2019-06-23T12:20:10.250Z",
+            "Discount Shopper": "2019-02-11T16:24:30.200Z"
+        },
+        "badges": [
+            "Discount Finder",
+            "Low Interest",
+            "Sales Only",
+            "Occasional Buyer"
+        ],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": false,
+            "Has purchased > 10 items": false,
+            "Is subsribed to newsletter": true
+        },
+        "metrics": {
+            "lat": 32.97954263662457,
+            "long": -117.34560300340384,
+            "Average Purchase Value": 249.5,
+            "Average Value Per Visit": 49.9,
+            "Lifetime total value": 998,
+            "Lifetime purchases": 4,
+            "Days since last visit": 4,
+            "Discount page views": 1,
+            "New arrival page views": 3,
+            "Hat page views": 1,
+            "Jeans page views": 5,
+            "Accesories page views": 2,
+            "Lifetime visits": 20,
+            "Lifetime Referred Visits": 5,
+            "Lifetime events": 31,
+            "Total direct visits": 7,
+            "Total time spent on site in minutes": 167,
+            "Number of logins - Past 90 days": 2,
+            "Future Lifetime Value 12 Months": 1304.1988851814126,
+            "Future Lifetime Value": 1900.7968472996067
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "Safari",
+            "Lifetime devices used (favorite)": "iPhone",
+            "Favorite Top Level Category": "Men",
+            "Email": "mike@gmail.com",
+            "visitor_id": "d7bbdd7c-e476-4bd1-ab60-febb6053499e"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": false
+            },
+            "properties": {
+                "Active Browser": "Other",
+                "Active Device": "iPad",
+                "Entry URL": "http://www.acme.com/product/about.html"
+            },
+            "dates": {
+                "Entry Time": 1566146635188
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Window Shopper",
+            "Low Budget"
+        ],
+        "audiences_joined_at": {
+            "Window Shopper": "2019-02-23T12:20:10.250Z",
+            "Low Budget": "2019-03-11T16:24:30.200Z"
+        },
+        "badges": [
+            "Low Interest",
+            "Returning Customer",
+            "Discount Finder"
+        ],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": false,
+            "Has purchased > 10 items": false,
+            "Is subsribed to newsletter": true
+        },
+        "metrics": {
+            "lat": 32.97949896889606,
+            "long": -117.16989521643532,
+            "Average Purchase Value": 188.8,
+            "Average Value Per Visit": 472,
+            "Lifetime total value": 944,
+            "Lifetime purchases": 5,
+            "Days since last visit": 4,
+            "Discount page views": 12,
+            "New arrival page views": 4,
+            "Hat page views": 6,
+            "Jeans page views": 1,
+            "Accesories page views": 15,
+            "Lifetime visits": 2,
+            "Lifetime Referred Visits": 1,
+            "Lifetime events": 15,
+            "Total direct visits": 1,
+            "Total time spent on site in minutes": 183,
+            "Number of logins - Past 90 days": 4,
+            "Future Lifetime Value 12 Months": 1056.3960494888158,
+            "Future Lifetime Value": 1617.2019729957324
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "IE",
+            "Lifetime devices used (favorite)": "iPad",
+            "Favorite Top Level Category": "Women",
+            "Email": "",
+            "visitor_id": "e95d4c39-aa3e-4076-bb83-22a541b6709c"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": true
+            },
+            "properties": {
+                "Active Browser": "Firefox",
+                "Active Device": "Android",
+                "Entry URL": "http://www.acme.com/returns"
+            },
+            "dates": {
+                "Entry Time": 1566142735188
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Discount Shopper",
+            "Low Budget"
+        ],
+        "audiences_joined_at": {
+            "Discount Shopper": "2019-01-23T12:20:10.250Z",
+            "Low Budget": "2019-06-11T16:24:30.200Z"
+        },
+        "badges": [
+            "Returning Customer"
+        ],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": false,
+            "Has purchased > 10 items": false,
+            "Is subsribed to newsletter": true
+        },
+        "metrics": {
+            "lat": 32.97860153518603,
+            "long": -117.30792291957286,
+            "Average Purchase Value": 45.333333333333336,
+            "Average Value Per Visit": 9.066666666666666,
+            "Lifetime total value": 136,
+            "Lifetime purchases": 3,
+            "Days since last visit": 2,
+            "Discount page views": 11,
+            "New arrival page views": 20,
+            "Hat page views": 4,
+            "Jeans page views": 1,
+            "Accesories page views": 14,
+            "Lifetime visits": 15,
+            "Lifetime Referred Visits": 6,
+            "Lifetime events": 49,
+            "Total direct visits": 5,
+            "Total time spent on site in minutes": 104,
+            "Number of logins - Past 90 days": 1,
+            "Future Lifetime Value 12 Months": 161.37145812749216,
+            "Future Lifetime Value": 206.03675678745333
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "IE",
+            "Lifetime devices used (favorite)": "Mac",
+            "Favorite Top Level Category": "Women",
+            "Email": "",
+            "visitor_id": "cc333e96-9830-490c-8fe2-2bcfefd88d08"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": true
+            },
+            "properties": {
+                "Active Browser": "Other",
+                "Active Device": "iPad",
+                "Entry URL": "http://www.acme.com/returns"
+            },
+            "dates": {
+                "Entry Time": 1566142555188
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Window Shopper",
+            "Low Budget"
+        ],
+        "audiences_joined_at": {
+            "Window Shopper": "2019-03-23T12:20:10.250Z",
+            "Low Budget": "2019-04-11T16:24:30.200Z"
+        },
+        "badges": [
+            "Discount Finder",
+            "Occasional Buyer",
+            "Returning Customer",
+            "Sales Only"
+        ],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": true,
+            "Has purchased > 10 items": false,
+            "Is subsribed to newsletter": true
+        },
+        "metrics": {
+            "lat": 32.97805162180003,
+            "long": -117.09524177478764,
+            "Average Purchase Value": 62.166666666666664,
+            "Average Value Per Visit": 19.63157894736842,
+            "Lifetime total value": 373,
+            "Lifetime purchases": 6,
+            "Days since last visit": 1,
+            "Discount page views": 14,
+            "New arrival page views": 13,
+            "Hat page views": 5,
+            "Jeans page views": 18,
+            "Accesories page views": 3,
+            "Lifetime visits": 19,
+            "Lifetime Referred Visits": 3,
+            "Lifetime events": 35,
+            "Total direct visits": 10,
+            "Total time spent on site in minutes": 181,
+            "Number of logins - Past 90 days": 1,
+            "Future Lifetime Value 12 Months": 404.58288725643735,
+            "Future Lifetime Value": 621.7897040483581
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "Firefox",
+            "Lifetime devices used (favorite)": "Windows",
+            "Favorite Top Level Category": "Kids",
+            "Email": "alex@gmail.com",
+            "visitor_id": "c1c87167-1397-432f-a403-89f00191fb71"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": true
+            },
+            "properties": {
+                "Active Browser": "Safari",
+                "Active Device": "Mac",
+                "Entry URL": "http://www.acme.com/contact"
+            },
+            "dates": {
+                "Entry Time": 1566146575188
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Discount Shopper",
+            "Low Budget"
+        ],
+        "audiences_joined_at": {
+            "Discount Shopper": "2019-06-23T12:20:10.250Z",
+            "Low Budget": "2019-06-11T16:24:30.200Z"
+        },
+        "badges": [],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": false,
+            "Has purchased > 10 items": false,
+            "Is subsribed to newsletter": true
+        },
+        "metrics": {
+            "lat": 32.97936366152075,
+            "long": -116.94240885618416,
+            "Average Purchase Value": 84,
+            "Average Value Per Visit": 252,
+            "Lifetime total value": 252,
+            "Lifetime purchases": 3,
+            "Days since last visit": 6,
+            "Discount page views": 7,
+            "New arrival page views": 9,
+            "Hat page views": 5,
+            "Jeans page views": 5,
+            "Accesories page views": 16,
+            "Lifetime visits": 1,
+            "Lifetime Referred Visits": 0,
+            "Lifetime events": 77,
+            "Total direct visits": 1,
+            "Total time spent on site in minutes": 170,
+            "Number of logins - Past 90 days": 1,
+            "Future Lifetime Value 12 Months": 320.1950975610681,
+            "Future Lifetime Value": 573.2345150692541
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "Safari",
+            "Lifetime devices used (favorite)": "Mac",
+            "Favorite Top Level Category": "Men",
+            "Email": "aaron@gmail.com",
+            "visitor_id": "ad6012ed-013b-45c8-8421-dac771b2bd1d"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": true
+            },
+            "properties": {
+                "Active Browser": "Firefox",
+                "Active Device": "Mac",
+                "Entry URL": "http://www.acme.com/promo.html"
+            },
+            "dates": {
+                "Entry Time": 1566146815188
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Low Budget",
+            "Discount Shopper"
+        ],
+        "audiences_joined_at": {
+            "Low Budget": "2019-05-23T12:20:10.250Z",
+            "Discount Shopper": "2019-01-11T16:24:30.200Z"
+        },
+        "badges": [],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": false,
+            "Has purchased > 10 items": false,
+            "Is subsribed to newsletter": true
+        },
+        "metrics": {
+            "lat": 32.97839416442047,
+            "long": -116.84832619272973,
+            "Average Purchase Value": 188,
+            "Average Value Per Visit": 25.636363636363637,
+            "Lifetime total value": 564,
+            "Lifetime purchases": 3,
+            "Days since last visit": 2,
+            "Discount page views": 10,
+            "New arrival page views": 14,
+            "Hat page views": 3,
+            "Jeans page views": 5,
+            "Accesories page views": 18,
+            "Lifetime visits": 22,
+            "Lifetime Referred Visits": 4,
+            "Lifetime events": 50,
+            "Total direct visits": 8,
+            "Total time spent on site in minutes": 137,
+            "Number of logins - Past 90 days": 5,
+            "Future Lifetime Value 12 Months": 566.6361145180148,
+            "Future Lifetime Value": 991.3769079062789
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "Chrome",
+            "Lifetime devices used (favorite)": "iPad",
+            "Favorite Top Level Category": "Kids",
+            "Email": "",
+            "visitor_id": "069f901a-389b-4fb7-ae85-b0c1d74da153"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": false
+            },
+            "properties": {
+                "Active Browser": "Chrome",
+                "Active Device": "Android",
+                "Entry URL": "http://www.acme.com/login.html"
+            },
+            "dates": {
+                "Entry Time": 1566147115188
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Discount Shopper",
+            "Low Budget"
+        ],
+        "audiences_joined_at": {
+            "Discount Shopper": "2019-04-23T12:20:10.250Z",
+            "Low Budget": "2019-02-11T16:24:30.200Z"
+        },
+        "badges": [
+            "Returning Customer"
+        ],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": false,
+            "Has purchased > 10 items": false,
+            "Is subsribed to newsletter": true
+        },
+        "metrics": {
+            "lat": 32.979648892257515,
+            "long": -117.26960172685313,
+            "Average Purchase Value": 115.66666666666667,
+            "Average Value Per Visit": 23.133333333333333,
+            "Lifetime total value": 347,
+            "Lifetime purchases": 3,
+            "Days since last visit": 4,
+            "Discount page views": 10,
+            "New arrival page views": 6,
+            "Hat page views": 5,
+            "Jeans page views": 12,
+            "Accesories page views": 1,
+            "Lifetime visits": 15,
+            "Lifetime Referred Visits": 1,
+            "Lifetime events": 14,
+            "Total direct visits": 5,
+            "Total time spent on site in minutes": 194,
+            "Number of logins - Past 90 days": 3,
+            "Future Lifetime Value 12 Months": 405.28065513276084,
+            "Future Lifetime Value": 681.8094549401463
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "Other",
+            "Lifetime devices used (favorite)": "iPad",
+            "Favorite Top Level Category": "Women",
+            "Email": "tom@gmail.com",
+            "visitor_id": "af8367d8-af04-4dd2-9086-91feb2386893"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": true
+            },
+            "properties": {
+                "Active Browser": "Safari",
+                "Active Device": "iPhone",
+                "Entry URL": "http://www.acme.com/promo.html"
+            },
+            "dates": {
+                "Entry Time": 1566144655188
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Low Budget",
+            "Discount Shopper"
+        ],
+        "audiences_joined_at": {
+            "Low Budget": "2019-01-23T12:20:10.250Z",
+            "Discount Shopper": "2019-02-11T16:24:30.200Z"
+        },
+        "badges": [],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": false,
+            "Has purchased > 10 items": false,
+            "Is subsribed to newsletter": false
+        },
+        "metrics": {
+            "lat": 32.97886793410214,
+            "long": -116.92932799076104,
+            "Average Purchase Value": 124,
+            "Average Value Per Visit": 372,
+            "Lifetime total value": 372,
+            "Lifetime purchases": 3,
+            "Days since last visit": 2,
+            "Discount page views": 6,
+            "New arrival page views": 14,
+            "Hat page views": 0,
+            "Jeans page views": 13,
+            "Accesories page views": 10,
+            "Lifetime visits": 1,
+            "Lifetime Referred Visits": 0,
+            "Lifetime events": 68,
+            "Total direct visits": 1,
+            "Total time spent on site in minutes": 106,
+            "Number of logins - Past 90 days": 6,
+            "Future Lifetime Value 12 Months": 391.9550369787553,
+            "Future Lifetime Value": 735.4270521790689
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "Safari",
+            "Lifetime devices used (favorite)": "Android",
+            "Favorite Top Level Category": "Kids",
+            "Email": "",
+            "visitor_id": "e38bb25b-96aa-44ff-93b6-ddeeca4ce338"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": false
+            },
+            "properties": {
+                "Active Browser": "Other",
+                "Active Device": "Mac",
+                "Entry URL": "http://www.acme.com/returns"
+            },
+            "dates": {
+                "Entry Time": 1566143515188
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Discount Shopper",
+            "Low Budget"
+        ],
+        "audiences_joined_at": {
+            "Discount Shopper": "2019-03-23T12:20:10.250Z",
+            "Low Budget": "2019-01-11T16:24:30.200Z"
+        },
+        "badges": [
+            "Low Interest",
+            "Sales Only"
+        ],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": false,
+            "Has purchased > 10 items": false,
+            "Is subsribed to newsletter": false
+        },
+        "metrics": {
+            "lat": 32.97752820014977,
+            "long": -117.2974067298461,
+            "Average Purchase Value": 144.5,
+            "Average Value Per Visit": 41.285714285714285,
+            "Lifetime total value": 578,
+            "Lifetime purchases": 4,
+            "Days since last visit": 3,
+            "Discount page views": 11,
+            "New arrival page views": 1,
+            "Hat page views": 2,
+            "Jeans page views": 9,
+            "Accesories page views": 10,
+            "Lifetime visits": 14,
+            "Lifetime Referred Visits": 8,
+            "Lifetime events": 75,
+            "Total direct visits": 7,
+            "Total time spent on site in minutes": 106,
+            "Number of logins - Past 90 days": 5,
+            "Future Lifetime Value 12 Months": 746.5227619635202,
+            "Future Lifetime Value": 975.7093735089699
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "Other",
+            "Lifetime devices used (favorite)": "iPhone",
+            "Favorite Top Level Category": "Men",
+            "Email": "aaron@gmail.com",
+            "visitor_id": "746eabbc-2fb3-4c72-ac90-a733eb481d79"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": true
+            },
+            "properties": {
+                "Active Browser": "Other",
+                "Active Device": "Windows",
+                "Entry URL": "http://www.acme.com/login.html"
+            },
+            "dates": {
+                "Entry Time": 1566142375188
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Low Budget",
+            "Window Shopper"
+        ],
+        "audiences_joined_at": {
+            "Low Budget": "2019-03-23T12:20:10.250Z",
+            "Window Shopper": "2019-01-11T16:24:30.200Z"
+        },
+        "badges": [
+            "Sales Only",
+            "Returning Customer",
+            "Discount Finder",
+            "Low Interest"
+        ],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": true,
+            "Has purchased > 10 items": false,
+            "Is subsribed to newsletter": true
+        },
+        "metrics": {
+            "lat": 32.97987377951786,
+            "long": -117.20963871272771,
+            "Average Purchase Value": 57.285714285714285,
+            "Average Value Per Visit": 28.642857142857142,
+            "Lifetime total value": 401,
+            "Lifetime purchases": 7,
+            "Days since last visit": 6,
+            "Discount page views": 9,
+            "New arrival page views": 7,
+            "Hat page views": 5,
+            "Jeans page views": 1,
+            "Accesories page views": 10,
+            "Lifetime visits": 14,
+            "Lifetime Referred Visits": 13,
+            "Lifetime events": 7,
+            "Total direct visits": 7,
+            "Total time spent on site in minutes": 188,
+            "Number of logins - Past 90 days": 3,
+            "Future Lifetime Value 12 Months": 437.9434500475759,
+            "Future Lifetime Value": 518.386297021776
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "Other",
+            "Lifetime devices used (favorite)": "Windows",
+            "Favorite Top Level Category": "Kids",
+            "Email": "bob@gmail.com",
+            "visitor_id": "a0769994-bf59-44f0-87a7-8ffc99af79f7"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": true
+            },
+            "properties": {
+                "Active Browser": "Chrome",
+                "Active Device": "iPhone",
+                "Entry URL": "http://www.acme.com/contact"
+            },
+            "dates": {
+                "Entry Time": 1566146395188
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Low Budget",
+            "Discount Shopper"
+        ],
+        "audiences_joined_at": {
+            "Low Budget": "2019-02-23T12:20:10.250Z",
+            "Discount Shopper": "2019-06-11T16:24:30.200Z"
+        },
+        "badges": [
+            "Occasional Buyer"
+        ],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": true,
+            "Has purchased > 10 items": false,
+            "Is subsribed to newsletter": false
+        },
+        "metrics": {
+            "lat": 32.9789615293471,
+            "long": -116.80404735334882,
+            "Average Purchase Value": 11.333333333333334,
+            "Average Value Per Visit": 6.8,
+            "Lifetime total value": 68,
+            "Lifetime purchases": 6,
+            "Days since last visit": 4,
+            "Discount page views": 5,
+            "New arrival page views": 12,
+            "Hat page views": 2,
+            "Jeans page views": 15,
+            "Accesories page views": 14,
+            "Lifetime visits": 10,
+            "Lifetime Referred Visits": 0,
+            "Lifetime events": 93,
+            "Total direct visits": 5,
+            "Total time spent on site in minutes": 146,
+            "Number of logins - Past 90 days": 6,
+            "Future Lifetime Value 12 Months": 78.6900675647137,
+            "Future Lifetime Value": 154.42055471655155
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "Chrome",
+            "Lifetime devices used (favorite)": "Android",
+            "Favorite Top Level Category": "Men",
+            "Email": "john@gmail.com",
+            "visitor_id": "a36ce86e-84f6-48cf-b5f9-cb6c74d9d42b"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": false
+            },
+            "properties": {
+                "Active Browser": "Safari",
+                "Active Device": "iPhone",
+                "Entry URL": "http://www.acme.com/product/14"
+            },
+            "dates": {
+                "Entry Time": 1566145495188
+            }
+        }
+    }
+],
+[
+    {
+        "audiences": [
+            "Frequent Visitor",
+            "VIP"
+        ],
+        "audiences_joined_at": {
+            "Frequent Visitor": "2019-05-23T12:20:10.250Z",
+            "VIP": "2019-06-11T16:24:30.200Z"
+        },
+        "badges": [
+            "Loyal Shopper",
+            "Discount Buyer",
+            "Coupon Lover",
+            "Trend Follower",
+            "Returning Customer"
+        ],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": true,
+            "Has purchased > 10 items": true,
+            "Is subsribed to newsletter": true
+        },
+        "metrics": {
+            "lat": 32.97834449325535,
+            "long": -117.11073364168101,
+            "Average Purchase Value": 62.57142857142857,
+            "Average Value Per Visit": 146,
+            "Lifetime total value": 1314,
+            "Lifetime purchases": 21,
+            "Days since last visit": 6,
+            "Discount page views": 10,
+            "New arrival page views": 13,
+            "Hat page views": 4,
+            "Jeans page views": 8,
+            "Accesories page views": 10,
+            "Lifetime visits": 9,
+            "Lifetime Direct Visits": 2,
+            "Lifetime Referred Visits": 7,
+            "Lifetime events": 73,
+            "Total time spent on site in minutes": 196,
+            "Number of logins - Past 90 days": 2,
+            "Future Lifetime Value 12 Months": 1500.7954190906814,
+            "Future Lifetime Value": 4554.634664355352,
+            "Products Purchased": [
+                {
+                    "Item Name": "Dope t-shirt",
+                    "Item Code": "2398498123478",
+                    "Quantity": 1,
+                    "Price": 20.19                
+                }
+            ]
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "Safari",
+            "Lifetime devices used (favorite)": "iPad",
+            "Favorite Top Level Category": "Men",
+            "Email": "",
+            "visitor_id": "813de831-ef06-4b79-82a1-5fedd558fc69"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": true
+            },
+            "properties": {
+                "Active Browser": "IE",
+                "Active Device": "Windows",
+                "Entry URL": "http://www.acme.com/login.html"
+            },
+            "dates": {
+                "Entry Time": 1566147909582
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Big Spender",
+            "Frequent Visitor"
+        ],
+        "audiences_joined_at": {
+            "Big Spender": "2019-02-23T12:20:10.250Z",
+            "Frequent Visitor": "2019-05-11T16:24:30.200Z"
+        },
+        "badges": [
+            "Returning Customer",
+            "Repeated Buyer",
+            "Discount Buyer",
+            "Loyal Shopper"
+        ],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": true,
+            "Has purchased > 10 items": true,
+            "Is subsribed to newsletter": false
+        },
+        "metrics": {
+            "lat": 32.97787725989857,
+            "long": -116.90391626841574,
+            "Average Purchase Value": 46,
+            "Average Value Per Visit": 52.57142857142857,
+            "Lifetime total value": 736,
+            "Lifetime purchases": 16,
+            "Days since last visit": 3,
+            "Discount page views": 15,
+            "New arrival page views": 6,
+            "Hat page views": 1,
+            "Jeans page views": 6,
+            "Accesories page views": 8,
+            "Lifetime visits": 14,
+            "Lifetime Direct Visits": 11,
+            "Lifetime Referred Visits": 3,
+            "Lifetime events": 79,
+            "Total time spent on site in minutes": 150,
+            "Number of logins - Past 90 days": 2,
+            "Future Lifetime Value 12 Months": 1662.2169240902845,
+            "Future Lifetime Value": 1893.382478173949,
+            "Products Purchased": [
+                {
+                    "Item Name": "Dope pants",
+                    "Item Code": "2398498123478",
+                    "Quantity": 1,
+                    "Price": 17.76                
+                }
+            ]
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "Safari",
+            "Lifetime devices used (favorite)": "iPhone",
+            "Favorite Top Level Category": "Women",
+            "Email": "",
+            "visitor_id": "2935ab3b-6e03-476d-8b91-fdbf859e1d10"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": true
+            },
+            "properties": {
+                "Active Browser": "Chrome",
+                "Active Device": "Mac",
+                "Entry URL": "http://www.acme.com/product/34"
+            },
+            "dates": {
+                "Entry Time": 1566146829582
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Frequent Visitor",
+            "VIP"
+        ],
+        "audiences_joined_at": {
+            "Frequent Visitor": "2019-04-23T12:20:10.250Z",
+            "VIP": "2019-03-11T16:24:30.200Z"
+        },
+        "badges": [
+            "Loyal Shopper",
+            "Coupon Lover",
+            "Discount Buyer",
+            "Trend Follower"
+        ],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": true,
+            "Has purchased > 10 items": true,
+            "Is subsribed to newsletter": true
+        },
+        "metrics": {
+            "lat": 32.979027071442005,
+            "long": -116.83380519175955,
+            "Average Purchase Value": 27.19047619047619,
+            "Average Value Per Visit": 22.84,
+            "Lifetime total value": 571,
+            "Lifetime purchases": 21,
+            "Days since last visit": 5,
+            "Discount page views": 10,
+            "New arrival page views": 4,
+            "Hat page views": 1,
+            "Jeans page views": 11,
+            "Accesories page views": 9,
+            "Lifetime visits": 25,
+            "Lifetime Direct Visits": 19,
+            "Lifetime Referred Visits": 6,
+            "Lifetime events": 84,
+            "Total time spent on site in minutes": 125,
+            "Number of logins - Past 90 days": 4,
+            "Future Lifetime Value 12 Months": 965.5317437810821,
+            "Future Lifetime Value": 2958.176437676523,
+            "Products Purchased": [
+                {
+                    "Item Name": "Dope socks",
+                    "Item Code": "2398498123478",
+                    "Quantity": 1,
+                    "Price": 10.84                
+                }
+            ]
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "Firefox",
+            "Lifetime devices used (favorite)": "iPhone",
+            "Favorite Top Level Category": "Men",
+            "Email": "rachel@gmail.com",
+            "visitor_id": "5eecbff4-26f0-4dc5-afd5-c5249a409a3e"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": true
+            },
+            "properties": {
+                "Active Browser": "Other",
+                "Active Device": "Mac",
+                "Entry URL": "http://www.acme.com/product/about.html"
+            },
+            "dates": {
+                "Entry Time": 1566147189582
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Big Spender",
+            "Frequent Visitor"
+        ],
+        "audiences_joined_at": {
+            "Big Spender": "2019-06-23T12:20:10.250Z",
+            "Frequent Visitor": "2019-02-11T16:24:30.200Z"
+        },
+        "badges": [
+            "Fan",
+            "Returning Customer",
+            "Trend Follower",
+            "Loyal Shopper"
+        ],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": true,
+            "Has purchased > 10 items": false,
+            "Is subsribed to newsletter": false
+        },
+        "metrics": {
+            "lat": 32.97909233795487,
+            "long": -117.2530098554509,
+            "Average Purchase Value": 258.2857142857143,
+            "Average Value Per Visit": 95.15789473684211,
+            "Lifetime total value": 1808,
+            "Lifetime purchases": 7,
+            "Days since last visit": 4,
+            "Discount page views": 3,
+            "New arrival page views": 11,
+            "Hat page views": 3,
+            "Jeans page views": 10,
+            "Accesories page views": 1,
+            "Lifetime visits": 19,
+            "Lifetime Direct Visits": 16,
+            "Lifetime Referred Visits": 3,
+            "Lifetime events": 6,
+            "Total time spent on site in minutes": 129,
+            "Number of logins - Past 90 days": 2,
+            "Future Lifetime Value 12 Months": 2785.7277314825437,
+            "Future Lifetime Value": 7059.899715380055
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "Firefox",
+            "Lifetime devices used (favorite)": "iPhone",
+            "Favorite Top Level Category": "Kids",
+            "Email": "",
+            "visitor_id": "eab963d6-37b2-43b3-af64-b9b75373a8a0"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": true
+            },
+            "properties": {
+                "Active Browser": "Chrome",
+                "Active Device": "iPad",
+                "Entry URL": "http://www.acme.com/promo.html"
+            },
+            "dates": {
+                "Entry Time": 1566147129582
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Big Spender",
+            "Loyal Shopper"
+        ],
+        "audiences_joined_at": {
+            "Big Spender": "2019-04-23T12:20:10.250Z",
+            "Loyal Shopper": "2019-06-11T16:24:30.200Z"
+        },
+        "badges": [],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": true,
+            "Has purchased > 10 items": true,
+            "Is subsribed to newsletter": true
+        },
+        "metrics": {
+            "lat": 32.97743677458342,
+            "long": -117.02749451248039,
+            "Average Purchase Value": 234.45454545454547,
+            "Average Value Per Visit": 184.21428571428572,
+            "Lifetime total value": 2579,
+            "Lifetime purchases": 11,
+            "Days since last visit": 3,
+            "Discount page views": 17,
+            "New arrival page views": 4,
+            "Hat page views": 3,
+            "Jeans page views": 19,
+            "Accesories page views": 10,
+            "Lifetime visits": 14,
+            "Lifetime Direct Visits": 7,
+            "Lifetime Referred Visits": 7,
+            "Lifetime events": 81,
+            "Total time spent on site in minutes": 177,
+            "Number of logins - Past 90 days": 1,
+            "Future Lifetime Value 12 Months": 4209.378534480553,
+            "Future Lifetime Value": 11849.05220199063
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "Firefox",
+            "Lifetime devices used (favorite)": "Mac",
+            "Favorite Top Level Category": "Men",
+            "Email": "mike@gmail.com",
+            "visitor_id": "667e135d-755f-44fc-ae9e-07396002f9b5"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": false
+            },
+            "properties": {
+                "Active Browser": "Safari",
+                "Active Device": "Mac",
+                "Entry URL": "http://www.acme.com/login.html"
+            },
+            "dates": {
+                "Entry Time": 1566150729582
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Frequent Visitor",
+            "VIP"
+        ],
+        "audiences_joined_at": {
+            "Frequent Visitor": "2019-04-23T12:20:10.250Z",
+            "VIP": "2019-02-11T16:24:30.200Z"
+        },
+        "badges": [
+            "Discount Buyer",
+            "Coupon Lover",
+            "Trend Follower",
+            "Returning Customer",
+            "Loyal Shopper",
+            "Fan"
+        ],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": true,
+            "Has purchased > 10 items": false,
+            "Is subsribed to newsletter": true
+        },
+        "metrics": {
+            "lat": 32.97954553589324,
+            "long": -117.3305447237853,
+            "Average Purchase Value": 282.77777777777777,
+            "Average Value Per Visit": 254.5,
+            "Lifetime total value": 2545,
+            "Lifetime purchases": 9,
+            "Days since last visit": 2,
+            "Discount page views": 15,
+            "New arrival page views": 3,
+            "Hat page views": 4,
+            "Jeans page views": 6,
+            "Accesories page views": 16,
+            "Lifetime visits": 10,
+            "Lifetime Direct Visits": 7,
+            "Lifetime Referred Visits": 3,
+            "Lifetime events": 39,
+            "Total time spent on site in minutes": 165,
+            "Number of logins - Past 90 days": 3,
+            "Future Lifetime Value 12 Months": 5146.616990078863,
+            "Future Lifetime Value": 6784.133295503741
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "IE",
+            "Lifetime devices used (favorite)": "Mac",
+            "Favorite Top Level Category": "Men",
+            "Email": "eric@gmail.com",
+            "visitor_id": "6c73e78c-de6f-4116-b23a-2eff51427f53"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": true
+            },
+            "properties": {
+                "Active Browser": "Other",
+                "Active Device": "Mac",
+                "Entry URL": "http://www.acme.com/login.html"
+            },
+            "dates": {
+                "Entry Time": 1566146049582
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Big Spender",
+            "Loyal Shopper"
+        ],
+        "audiences_joined_at": {
+            "Big Spender": "2019-03-23T12:20:10.250Z",
+            "Loyal Shopper": "2019-05-11T16:24:30.200Z"
+        },
+        "badges": [
+            "Fan"
+        ],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": false,
+            "Has purchased > 10 items": false,
+            "Is subsribed to newsletter": false
+        },
+        "metrics": {
+            "lat": 32.97786174113813,
+            "long": -117.11701510362897,
+            "Average Purchase Value": 272.25,
+            "Average Value Per Visit": 99,
+            "Lifetime total value": 1089,
+            "Lifetime purchases": 4,
+            "Days since last visit": 1,
+            "Discount page views": 18,
+            "New arrival page views": 8,
+            "Hat page views": 1,
+            "Jeans page views": 11,
+            "Accesories page views": 10,
+            "Lifetime visits": 11,
+            "Lifetime Direct Visits": 3,
+            "Lifetime Referred Visits": 8,
+            "Lifetime events": 44,
+            "Total time spent on site in minutes": 123,
+            "Number of logins - Past 90 days": 4,
+            "Future Lifetime Value 12 Months": 1692.5686521895664,
+            "Future Lifetime Value": 5032.662465595518
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "Firefox",
+            "Lifetime devices used (favorite)": "Windows",
+            "Favorite Top Level Category": "Women",
+            "Email": "jenny@gmail.com",
+            "visitor_id": "348e62da-61cf-49ea-96ee-1ee7f32df5fb"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": false
+            },
+            "properties": {
+                "Active Browser": "Other",
+                "Active Device": "Windows",
+                "Entry URL": "http://www.acme.com/product/about.html"
+            },
+            "dates": {
+                "Entry Time": 1566150489582
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Frequent Visitor",
+            "Big Spender"
+        ],
+        "audiences_joined_at": {
+            "Frequent Visitor": "2019-05-23T12:20:10.250Z",
+            "Big Spender": "2019-05-11T16:24:30.200Z"
+        },
+        "badges": [
+            "Discount Buyer",
+            "Fan",
+            "Loyal Shopper",
+            "Repeated Buyer",
+            "Trend Follower"
+        ],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": true,
+            "Has purchased > 10 items": true,
+            "Is subsribed to newsletter": true
+        },
+        "metrics": {
+            "lat": 32.9789004880392,
+            "long": -117.14214501816677,
+            "Average Purchase Value": 86.22727272727273,
+            "Average Value Per Visit": 79.04166666666667,
+            "Lifetime total value": 1897,
+            "Lifetime purchases": 22,
+            "Days since last visit": 5,
+            "Discount page views": 15,
+            "New arrival page views": 2,
+            "Hat page views": 3,
+            "Jeans page views": 7,
+            "Accesories page views": 17,
+            "Lifetime visits": 24,
+            "Lifetime Direct Visits": 18,
+            "Lifetime Referred Visits": 6,
+            "Lifetime events": 28,
+            "Total time spent on site in minutes": 197,
+            "Number of logins - Past 90 days": 1,
+            "Future Lifetime Value 12 Months": 4962.240212381885,
+            "Future Lifetime Value": 9425.930576037517
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "Chrome",
+            "Lifetime devices used (favorite)": "iPad",
+            "Favorite Top Level Category": "Men",
+            "Email": "rachel@gmail.com",
+            "visitor_id": "aa403b93-b28b-45b9-8a37-8aa36d351f49"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": true
+            },
+            "properties": {
+                "Active Browser": "Chrome",
+                "Active Device": "Windows",
+                "Entry URL": "http://www.acme.com/login.html"
+            },
+            "dates": {
+                "Entry Time": 1566148749582
+            }
+        }
+    },
+    {
+        "audiences": [
+            "VIP",
+            "Big Spender"
+        ],
+        "audiences_joined_at": {
+            "VIP": "2019-06-23T12:20:10.250Z",
+            "Big Spender": "2019-05-11T16:24:30.200Z"
+        },
+        "badges": [
+            "Fan"
+        ],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": true,
+            "Has purchased > 10 items": false,
+            "Is subsribed to newsletter": true
+        },
+        "metrics": {
+            "lat": 32.97900311580352,
+            "long": -117.0396329582747,
+            "Average Purchase Value": 307.55555555555554,
+            "Average Value Per Visit": 125.81818181818181,
+            "Lifetime total value": 2768,
+            "Lifetime purchases": 9,
+            "Days since last visit": 4,
+            "Discount page views": 14,
+            "New arrival page views": 12,
+            "Hat page views": 3,
+            "Jeans page views": 17,
+            "Accesories page views": 15,
+            "Lifetime visits": 22,
+            "Lifetime Direct Visits": 21,
+            "Lifetime Referred Visits": 1,
+            "Lifetime events": 17,
+            "Total time spent on site in minutes": 107,
+            "Number of logins - Past 90 days": 5,
+            "Future Lifetime Value 12 Months": 8241.726791454746,
+            "Future Lifetime Value": 10845.00447371546
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "Firefox",
+            "Lifetime devices used (favorite)": "Android",
+            "Favorite Top Level Category": "Men",
+            "Email": "kim@gmail.com",
+            "visitor_id": "e2f9ec37-3edb-49fe-81d8-9656e59879bc"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": false
+            },
+            "properties": {
+                "Active Browser": "Safari",
+                "Active Device": "Mac",
+                "Entry URL": "http://www.acme.com/product/about.html"
+            },
+            "dates": {
+                "Entry Time": 1566150369582
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Window Shopper",
+            "Discount Shopper"
+        ],
+        "audiences_joined_at": {
+            "Window Shopper": "2019-04-23T12:20:10.250Z",
+            "Discount Shopper": "2019-05-11T16:24:30.200Z"
+        },
+        "badges": [],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": false,
+            "Has purchased > 10 items": false,
+            "Is subsribed to newsletter": true
+        },
+        "metrics": {
+            "lat": 32.97894557477957,
+            "long": -117.03531030561042,
+            "Average Purchase Value": 38.8,
+            "Average Value Per Visit": 24.25,
+            "Lifetime total value": 194,
+            "Lifetime purchases": 5,
+            "Days since last visit": 0,
+            "Discount page views": 7,
+            "New arrival page views": 17,
+            "Hat page views": 4,
+            "Jeans page views": 17,
+            "Accesories page views": 20,
+            "Lifetime visits": 8,
+            "Lifetime Referred Visits": 6,
+            "Lifetime events": 2,
+            "Total direct visits": 3,
+            "Total time spent on site in minutes": 178,
+            "Number of logins - Past 90 days": 1,
+            "Future Lifetime Value 12 Months": 237.68039463880461,
+            "Future Lifetime Value": 397.00975402622396
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "Firefox",
+            "Lifetime devices used (favorite)": "iPhone",
+            "Favorite Top Level Category": "Men",
+            "Email": "",
+            "visitor_id": "df42bb67-17c4-4e92-b275-5e000d0b6908"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": true
+            },
+            "properties": {
+                "Active Browser": "Safari",
+                "Active Device": "iPad",
+                "Entry URL": "http://www.acme.com/contact"
+            },
+            "dates": {
+                "Entry Time": 1566145989582
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Low Budget",
+            "Discount Shopper"
+        ],
+        "audiences_joined_at": {
+            "Low Budget": "2019-06-23T12:20:10.250Z",
+            "Discount Shopper": "2019-06-11T16:24:30.200Z"
+        },
+        "badges": [
+            "Sales Only",
+            "Occasional Buyer",
+            "Low Interest",
+            "Returning Customer"
+        ],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": false,
+            "Has purchased > 10 items": false,
+            "Is subsribed to newsletter": true
+        },
+        "metrics": {
+            "lat": 32.97921169688143,
+            "long": -116.80597072887548,
+            "Average Purchase Value": 719,
+            "Average Value Per Visit": 102.71428571428571,
+            "Lifetime total value": 719,
+            "Lifetime purchases": 1,
+            "Days since last visit": 4,
+            "Discount page views": 15,
+            "New arrival page views": 11,
+            "Hat page views": 5,
+            "Jeans page views": 2,
+            "Accesories page views": 12,
+            "Lifetime visits": 7,
+            "Lifetime Referred Visits": 1,
+            "Lifetime events": 10,
+            "Total direct visits": 4,
+            "Total time spent on site in minutes": 193,
+            "Number of logins - Past 90 days": 1,
+            "Future Lifetime Value 12 Months": 778.6581479692052,
+            "Future Lifetime Value": 811.7907219527353
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "Other",
+            "Lifetime devices used (favorite)": "Mac",
+            "Favorite Top Level Category": "Women",
+            "Email": "jenny@gmail.com",
+            "visitor_id": "23229f0b-15ba-437a-be23-fb97ab6a7bad"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": false
+            },
+            "properties": {
+                "Active Browser": "Safari",
+                "Active Device": "iPad",
+                "Entry URL": "http://www.acme.com/contact"
+            },
+            "dates": {
+                "Entry Time": 1566147069582
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Discount Shopper",
+            "Window Shopper"
+        ],
+        "audiences_joined_at": {
+            "Discount Shopper": "2019-02-23T12:20:10.250Z",
+            "Window Shopper": "2019-06-11T16:24:30.200Z"
+        },
+        "badges": [],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": false,
+            "Has purchased > 10 items": false,
+            "Is subsribed to newsletter": false
+        },
+        "metrics": {
+            "lat": 32.97751264868616,
+            "long": -116.82596650123197,
+            "Average Purchase Value": 5.666666666666667,
+            "Average Value Per Visit": 1.5454545454545454,
+            "Lifetime total value": 17,
+            "Lifetime purchases": 3,
+            "Days since last visit": 0,
+            "Discount page views": 11,
+            "New arrival page views": 14,
+            "Hat page views": 3,
+            "Jeans page views": 10,
+            "Accesories page views": 14,
+            "Lifetime visits": 11,
+            "Lifetime Referred Visits": 2,
+            "Lifetime events": 32,
+            "Total direct visits": 4,
+            "Total time spent on site in minutes": 104,
+            "Number of logins - Past 90 days": 4,
+            "Future Lifetime Value 12 Months": 19.80024173036207,
+            "Future Lifetime Value": 24.34231231115174
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "Chrome",
+            "Lifetime devices used (favorite)": "iPhone",
+            "Favorite Top Level Category": "Women",
+            "Email": "",
+            "visitor_id": "92cb081d-2cc0-44dd-aba8-711cf09e75e3"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": true
+            },
+            "properties": {
+                "Active Browser": "Safari",
+                "Active Device": "iPad",
+                "Entry URL": "http://www.acme.com/contact"
+            },
+            "dates": {
+                "Entry Time": 1566145869582
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Low Budget",
+            "Discount Shopper"
+        ],
+        "audiences_joined_at": {
+            "Low Budget": "2019-03-23T12:20:10.250Z",
+            "Discount Shopper": "2019-01-11T16:24:30.200Z"
+        },
+        "badges": [
+            "Low Interest",
+            "Occasional Buyer",
+            "Sales Only",
+            "Discount Finder"
+        ],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": false,
+            "Has purchased > 10 items": false,
+            "Is subsribed to newsletter": false
+        },
+        "metrics": {
+            "lat": 32.9785465506079,
+            "long": -116.82428345584665,
+            "Average Purchase Value": 677,
+            "Average Value Per Visit": 35.63157894736842,
+            "Lifetime total value": 677,
+            "Lifetime purchases": 1,
+            "Days since last visit": 1,
+            "Discount page views": 8,
+            "New arrival page views": 11,
+            "Hat page views": 6,
+            "Jeans page views": 17,
+            "Accesories page views": 15,
+            "Lifetime visits": 19,
+            "Lifetime Referred Visits": 9,
+            "Lifetime events": 95,
+            "Total direct visits": 7,
+            "Total time spent on site in minutes": 174,
+            "Number of logins - Past 90 days": 0,
+            "Future Lifetime Value 12 Months": 898.1465743846186,
+            "Future Lifetime Value": 1679.9643414245743
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "Other",
+            "Lifetime devices used (favorite)": "iPhone",
+            "Favorite Top Level Category": "Men",
+            "Email": "mike@gmail.com",
+            "visitor_id": "24ce7194-5f9c-4790-af09-8bd61aefa64d"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": true
+            },
+            "properties": {
+                "Active Browser": "Safari",
+                "Active Device": "Android",
+                "Entry URL": "http://www.acme.com/product/74"
+            },
+            "dates": {
+                "Entry Time": 1566148209582
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Discount Shopper",
+            "Window Shopper"
+        ],
+        "audiences_joined_at": {
+            "Discount Shopper": "2019-03-23T12:20:10.250Z",
+            "Window Shopper": "2019-03-11T16:24:30.200Z"
+        },
+        "badges": [
+            "Low Interest",
+            "Returning Customer",
+            "Occasional Buyer"
+        ],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": false,
+            "Has purchased > 10 items": false,
+            "Is subsribed to newsletter": true
+        },
+        "metrics": {
+            "lat": 32.97809417956607,
+            "long": -117.2380280615918,
+            "Average Purchase Value": 859,
+            "Average Value Per Visit": 143.16666666666666,
+            "Lifetime total value": 859,
+            "Lifetime purchases": 1,
+            "Days since last visit": 5,
+            "Discount page views": 0,
+            "New arrival page views": 19,
+            "Hat page views": 1,
+            "Jeans page views": 4,
+            "Accesories page views": 19,
+            "Lifetime visits": 6,
+            "Lifetime Referred Visits": 1,
+            "Lifetime events": 53,
+            "Total direct visits": 3,
+            "Total time spent on site in minutes": 102,
+            "Number of logins - Past 90 days": 1,
+            "Future Lifetime Value 12 Months": 1056.7010339863657,
+            "Future Lifetime Value": 1764.1132620159576
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "Safari",
+            "Lifetime devices used (favorite)": "Windows",
+            "Favorite Top Level Category": "Men",
+            "Email": "alex@gmail.com",
+            "visitor_id": "1fdbd817-9e6a-4ac2-8f66-e0bfe949bab0"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": false
+            },
+            "properties": {
+                "Active Browser": "Safari",
+                "Active Device": "iPhone",
+                "Entry URL": "http://www.acme.com/shipping_info"
+            },
+            "dates": {
+                "Entry Time": 1566146049582
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Window Shopper",
+            "Low Budget"
+        ],
+        "audiences_joined_at": {
+            "Window Shopper": "2019-04-23T12:20:10.250Z",
+            "Low Budget": "2019-04-11T16:24:30.200Z"
+        },
+        "badges": [],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": false,
+            "Has purchased > 10 items": false,
+            "Is subsribed to newsletter": false
+        },
+        "metrics": {
+            "lat": 32.978917570280814,
+            "long": -117.27607256765823,
+            "Average Purchase Value": 212,
+            "Average Value Per Visit": 37.411764705882355,
+            "Lifetime total value": 636,
+            "Lifetime purchases": 3,
+            "Days since last visit": 1,
+            "Discount page views": 18,
+            "New arrival page views": 5,
+            "Hat page views": 1,
+            "Jeans page views": 14,
+            "Accesories page views": 3,
+            "Lifetime visits": 17,
+            "Lifetime Referred Visits": 3,
+            "Lifetime events": 44,
+            "Total direct visits": 9,
+            "Total time spent on site in minutes": 119,
+            "Number of logins - Past 90 days": 3,
+            "Future Lifetime Value 12 Months": 755.5254361317768,
+            "Future Lifetime Value": 1314.4443201139488
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "IE",
+            "Lifetime devices used (favorite)": "iPhone",
+            "Favorite Top Level Category": "Kids",
+            "Email": "sophia@gmail.com",
+            "visitor_id": "1c7d8048-e9f7-4b96-b69d-285148c77db4"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": true
+            },
+            "properties": {
+                "Active Browser": "Firefox",
+                "Active Device": "iPad",
+                "Entry URL": "http://www.acme.com/contact"
+            },
+            "dates": {
+                "Entry Time": 1566147189582
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Low Budget",
+            "Window Shopper"
+        ],
+        "audiences_joined_at": {
+            "Low Budget": "2019-01-23T12:20:10.250Z",
+            "Window Shopper": "2019-05-11T16:24:30.200Z"
+        },
+        "badges": [],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": false,
+            "Has purchased > 10 items": false,
+            "Is subsribed to newsletter": true
+        },
+        "metrics": {
+            "lat": 32.97859200628088,
+            "long": -117.25904233639767,
+            "Average Purchase Value": 82.33333333333333,
+            "Average Value Per Visit": 30.875,
+            "Lifetime total value": 247,
+            "Lifetime purchases": 3,
+            "Days since last visit": 6,
+            "Discount page views": 6,
+            "New arrival page views": 4,
+            "Hat page views": 0,
+            "Jeans page views": 10,
+            "Accesories page views": 18,
+            "Lifetime visits": 8,
+            "Lifetime Referred Visits": 5,
+            "Lifetime events": 31,
+            "Total direct visits": 4,
+            "Total time spent on site in minutes": 181,
+            "Number of logins - Past 90 days": 3,
+            "Future Lifetime Value 12 Months": 296.55976759493177,
+            "Future Lifetime Value": 301.9204903695044
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "Firefox",
+            "Lifetime devices used (favorite)": "Windows",
+            "Favorite Top Level Category": "Kids",
+            "Email": "",
+            "visitor_id": "fa144bd5-81f8-47c9-9f47-1ce3e8faf02e"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": true
+            },
+            "properties": {
+                "Active Browser": "IE",
+                "Active Device": "Windows",
+                "Entry URL": "http://www.acme.com/contact"
+            },
+            "dates": {
+                "Entry Time": 1566147729582
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Window Shopper",
+            "Discount Shopper"
+        ],
+        "audiences_joined_at": {
+            "Window Shopper": "2019-05-23T12:20:10.250Z",
+            "Discount Shopper": "2019-04-11T16:24:30.200Z"
+        },
+        "badges": [
+            "Low Interest",
+            "Discount Finder",
+            "Returning Customer",
+            "Occasional Buyer"
+        ],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": true,
+            "Has purchased > 10 items": false,
+            "Is subsribed to newsletter": true
+        },
+        "metrics": {
+            "lat": 32.97839092603616,
+            "long": -116.91851698957974,
+            "Average Purchase Value": 16.833333333333332,
+            "Average Value Per Visit": 5.05,
+            "Lifetime total value": 101,
+            "Lifetime purchases": 6,
+            "Days since last visit": 5,
+            "Discount page views": 8,
+            "New arrival page views": 4,
+            "Hat page views": 4,
+            "Jeans page views": 13,
+            "Accesories page views": 15,
+            "Lifetime visits": 20,
+            "Lifetime Referred Visits": 12,
+            "Lifetime events": 61,
+            "Total direct visits": 10,
+            "Total time spent on site in minutes": 128,
+            "Number of logins - Past 90 days": 4,
+            "Future Lifetime Value 12 Months": 107.7250994112565,
+            "Future Lifetime Value": 155.31843210469356
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "Other",
+            "Lifetime devices used (favorite)": "iPad",
+            "Favorite Top Level Category": "Men",
+            "Email": "",
+            "visitor_id": "2f544106-2840-4759-83fe-b6f5e2f650d8"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": false
+            },
+            "properties": {
+                "Active Browser": "Chrome",
+                "Active Device": "Windows",
+                "Entry URL": "http://www.acme.com/returns"
+            },
+            "dates": {
+                "Entry Time": 1566146289582
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Discount Shopper",
+            "Low Budget"
+        ],
+        "audiences_joined_at": {
+            "Discount Shopper": "2019-02-23T12:20:10.250Z",
+            "Low Budget": "2019-03-11T16:24:30.200Z"
+        },
+        "badges": [
+            "Returning Customer",
+            "Discount Finder",
+            "Low Interest"
+        ],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": false,
+            "Has purchased > 10 items": false,
+            "Is subsribed to newsletter": false
+        },
+        "metrics": {
+            "lat": 32.978823028078764,
+            "long": -116.81736257322788,
+            "Average Purchase Value": 68.4,
+            "Average Value Per Visit": null,
+            "Lifetime total value": 342,
+            "Lifetime purchases": 5,
+            "Days since last visit": 1,
+            "Discount page views": 11,
+            "New arrival page views": 3,
+            "Hat page views": 4,
+            "Jeans page views": 12,
+            "Accesories page views": 5,
+            "Lifetime visits": 0,
+            "Lifetime Referred Visits": 0,
+            "Lifetime events": 5,
+            "Total direct visits": 0,
+            "Total time spent on site in minutes": 186,
+            "Number of logins - Past 90 days": 0,
+            "Future Lifetime Value 12 Months": 434.4430169253052,
+            "Future Lifetime Value": 660.8999682415351
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "IE",
+            "Lifetime devices used (favorite)": "Android",
+            "Favorite Top Level Category": "Women",
+            "Email": "",
+            "visitor_id": "eac38582-0099-4d6e-a708-0e015e7c9daa"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": true
+            },
+            "properties": {
+                "Active Browser": "IE",
+                "Active Device": "Mac",
+                "Entry URL": "http://www.acme.com/product/31"
+            },
+            "dates": {
+                "Entry Time": 1566147849582
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Window Shopper",
+            "Discount Shopper"
+        ],
+        "audiences_joined_at": {
+            "Window Shopper": "2019-04-23T12:20:10.250Z",
+            "Discount Shopper": "2019-05-11T16:24:30.200Z"
+        },
+        "badges": [],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": false,
+            "Has purchased > 10 items": false,
+            "Is subsribed to newsletter": false
+        },
+        "metrics": {
+            "lat": 32.97906871105966,
+            "long": -117.34388689047371,
+            "Average Purchase Value": 500,
+            "Average Value Per Visit": 29.41176470588235,
+            "Lifetime total value": 500,
+            "Lifetime purchases": 1,
+            "Days since last visit": 6,
+            "Discount page views": 4,
+            "New arrival page views": 15,
+            "Hat page views": 4,
+            "Jeans page views": 10,
+            "Accesories page views": 17,
+            "Lifetime visits": 17,
+            "Lifetime Referred Visits": 12,
+            "Lifetime events": 96,
+            "Total direct visits": 6,
+            "Total time spent on site in minutes": 186,
+            "Number of logins - Past 90 days": 2,
+            "Future Lifetime Value 12 Months": 608.5303787850942,
+            "Future Lifetime Value": 1015.554705361487
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "IE",
+            "Lifetime devices used (favorite)": "Android",
+            "Favorite Top Level Category": "Kids",
+            "Email": "",
+            "visitor_id": "cb7fb9e2-5b26-481d-b2da-56a391986de9"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": true
+            },
+            "properties": {
+                "Active Browser": "Chrome",
+                "Active Device": "iPhone",
+                "Entry URL": "http://www.acme.com/product/about.html"
+            },
+            "dates": {
+                "Entry Time": 1566146049582
+            }
+        }
+    }
+],
+[
+    {
+        "audiences": [
+            "Frequent Visitor",
+            "Loyal Shopper"
+        ],
+        "audiences_joined_at": {
+            "Frequent Visitor": "2019-02-23T12:20:10.250Z",
+            "Loyal Shopper": "2019-02-11T16:24:30.200Z"
+        },
+        "badges": [
+            "Coupon Lover",
+            "Returning Customer",
+            "Trend Follower"
+        ],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": true,
+            "Has purchased > 10 items": true,
+            "Is subsribed to newsletter": true
+        },
+        "metrics": {
+            "lat": 32.97908693606452,
+            "long": -116.9565543206915,
+            "Average Purchase Value": 139.4375,
+            "Average Value Per Visit": 148.73333333333332,
+            "Lifetime total value": 2231,
+            "Lifetime purchases": 16,
+            "Days since last visit": 5,
+            "Discount page views": 2,
+            "New arrival page views": 4,
+            "Hat page views": 2,
+            "Jeans page views": 19,
+            "Accesories page views": 7,
+            "Lifetime visits": 15,
+            "Lifetime Direct Visits": 14,
+            "Lifetime Referred Visits": 1,
+            "Lifetime events": 40,
+            "Total time spent on site in minutes": 120,
+            "Number of logins - Past 90 days": 4,
+            "Future Lifetime Value 12 Months": 5021.98452694321,
+            "Future Lifetime Value": 6024.411306143872,
+            "Products Purchased": [
+                {
+                    "Item Name": "Dope t-shirt",
+                    "Item Code": "2398498123478",
+                    "Quantity": 1,
+                    "Price": 20.19                
+                }
+            ]
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "Chrome",
+            "Lifetime devices used (favorite)": "Mac",
+            "Favorite Top Level Category": "Kids",
+            "Email": "curtis@gmail.com",
+            "visitor_id": "beb3a9d2-52c5-414f-a29b-ac4845469462"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": true
+            },
+            "properties": {
+                "Active Browser": "Chrome",
+                "Active Device": "Windows",
+                "Entry URL": "http://www.acme.com/welcome.html"
+            },
+            "dates": {
+                "Entry Time": 1566149871320
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Frequent Visitor",
+            "Big Spender"
+        ],
+        "audiences_joined_at": {
+            "Frequent Visitor": "2019-04-23T12:20:10.250Z",
+            "Big Spender": "2019-01-11T16:24:30.200Z"
+        },
+        "badges": [
+            "Fan",
+            "Loyal Shopper",
+            "Coupon Lover",
+            "Discount Buyer"
+        ],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": true,
+            "Has purchased > 10 items": true,
+            "Is subsribed to newsletter": true
+        },
+        "metrics": {
+            "lat": 32.977569375962425,
+            "long": -117.12604905214172,
+            "Average Purchase Value": 80.9375,
+            "Average Value Per Visit": 92.5,
+            "Lifetime total value": 1295,
+            "Lifetime purchases": 16,
+            "Days since last visit": 1,
+            "Discount page views": 8,
+            "New arrival page views": 6,
+            "Hat page views": 3,
+            "Jeans page views": 5,
+            "Accesories page views": 13,
+            "Lifetime visits": 14,
+            "Lifetime Direct Visits": 4,
+            "Lifetime Referred Visits": 10,
+            "Lifetime events": 89,
+            "Total time spent on site in minutes": 137,
+            "Number of logins - Past 90 days": 5,
+            "Future Lifetime Value 12 Months": 2917.124927249124,
+            "Future Lifetime Value": 6275.6416754807005,
+            "Products Purchased": [
+                {
+                    "Item Name": "Dope pants",
+                    "Item Code": "2398498123478",
+                    "Quantity": 2,
+                    "Price": 17.76                
+                }
+            ]
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "Safari",
+            "Lifetime devices used (favorite)": "iPhone",
+            "Favorite Top Level Category": "Women",
+            "Email": "mike@gmail.com",
+            "visitor_id": "f3552df5-65ed-4a0e-9af0-613d978ed601"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": false
+            },
+            "properties": {
+                "Active Browser": "Firefox",
+                "Active Device": "Windows",
+                "Entry URL": "http://www.acme.com/returns"
+            },
+            "dates": {
+                "Entry Time": 1566145251320
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Loyal Shopper",
+            "Frequent Visitor"
+        ],
+        "audiences_joined_at": {
+            "Loyal Shopper": "2019-03-23T12:20:10.250Z",
+            "Frequent Visitor": "2019-04-11T16:24:30.200Z"
+        },
+        "badges": [],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": true,
+            "Has purchased > 10 items": true,
+            "Is subsribed to newsletter": false
+        },
+        "metrics": {
+            "lat": 32.97908885020089,
+            "long": -117.27840679952979,
+            "Average Purchase Value": 20.928571428571427,
+            "Average Value Per Visit": 22.53846153846154,
+            "Lifetime total value": 293,
+            "Lifetime purchases": 14,
+            "Days since last visit": 6,
+            "Discount page views": 11,
+            "New arrival page views": 15,
+            "Hat page views": 5,
+            "Jeans page views": 16,
+            "Accesories page views": 6,
+            "Lifetime visits": 13,
+            "Lifetime Direct Visits": 2,
+            "Lifetime Referred Visits": 11,
+            "Lifetime events": 15,
+            "Total time spent on site in minutes": 144,
+            "Number of logins - Past 90 days": 0,
+            "Future Lifetime Value 12 Months": 354.9359920503347,
+            "Future Lifetime Value": 728.2302444400461,
+            "Products Purchased": [
+                {
+                    "Item Name": "Dope sandals",
+                    "Item Code": "2398498123478",
+                    "Quantity": 1,
+                    "Price": 16.64                
+                }
+            ]
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "Other",
+            "Lifetime devices used (favorite)": "Mac",
+            "Favorite Top Level Category": "Kids",
+            "Email": "jenny@gmail.com",
+            "visitor_id": "b38c121d-86a6-4f29-91a7-58a2ae692441"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": true
+            },
+            "properties": {
+                "Active Browser": "Firefox",
+                "Active Device": "Mac",
+                "Entry URL": "http://www.acme.com/welcome.html"
+            },
+            "dates": {
+                "Entry Time": 1566149511320
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Big Spender",
+            "VIP"
+        ],
+        "audiences_joined_at": {
+            "Big Spender": "2019-01-23T12:20:10.250Z",
+            "VIP": "2019-04-11T16:24:30.200Z"
+        },
+        "badges": [],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": true,
+            "Has purchased > 10 items": true,
+            "Is subsribed to newsletter": true
+        },
+        "metrics": {
+            "lat": 32.97841675399148,
+            "long": -116.95460622481404,
+            "Average Purchase Value": 55.6,
+            "Average Value Per Visit": 111.2,
+            "Lifetime total value": 1112,
+            "Lifetime purchases": 20,
+            "Days since last visit": 3,
+            "Discount page views": 14,
+            "New arrival page views": 18,
+            "Hat page views": 1,
+            "Jeans page views": 7,
+            "Accesories page views": 12,
+            "Lifetime visits": 10,
+            "Lifetime Direct Visits": 7,
+            "Lifetime Referred Visits": 3,
+            "Lifetime events": 14,
+            "Total time spent on site in minutes": 126,
+            "Number of logins - Past 90 days": 5,
+            "Future Lifetime Value 12 Months": 2025.4186742124837,
+            "Future Lifetime Value": 2355.6443971574517
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "Other",
+            "Lifetime devices used (favorite)": "iPad",
+            "Favorite Top Level Category": "Men",
+            "Email": "",
+            "visitor_id": "4e238b8a-dffb-4e96-99ca-36759d27c17f"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": false
+            },
+            "properties": {
+                "Active Browser": "Firefox",
+                "Active Device": "iPad",
+                "Entry URL": "http://www.acme.com/product/36"
+            },
+            "dates": {
+                "Entry Time": 1566146271320
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Window Shopper",
+            "Low Budget"
+        ],
+        "audiences_joined_at": {
+            "Window Shopper": "2019-06-23T12:20:10.250Z",
+            "Low Budget": "2019-01-11T16:24:30.200Z"
+        },
+        "badges": [
+            "Sales Only",
+            "Low Interest",
+            "Occasional Buyer"
+        ],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": false,
+            "Has purchased > 10 items": false,
+            "Is subsribed to newsletter": true
+        },
+        "metrics": {
+            "lat": 32.9784636895132,
+            "long": -117.40077185581363,
+            "Average Purchase Value": 76.5,
+            "Average Value Per Visit": 16.105263157894736,
+            "Lifetime total value": 306,
+            "Lifetime purchases": 4,
+            "Days since last visit": 4,
+            "Discount page views": 13,
+            "New arrival page views": 16,
+            "Hat page views": 5,
+            "Jeans page views": 5,
+            "Accesories page views": 7,
+            "Lifetime visits": 19,
+            "Lifetime Referred Visits": 6,
+            "Lifetime events": 67,
+            "Total direct visits": 7,
+            "Total time spent on site in minutes": 127,
+            "Number of logins - Past 90 days": 2,
+            "Future Lifetime Value 12 Months": 342.3081475797125,
+            "Future Lifetime Value": 527.3034165869849
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "Chrome",
+            "Lifetime devices used (favorite)": "iPhone",
+            "Favorite Top Level Category": "Women",
+            "Email": "mark@gmail.com",
+            "visitor_id": "ea28842c-6858-46d3-8888-9a46b64043db"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": false
+            },
+            "properties": {
+                "Active Browser": "IE",
+                "Active Device": "Mac",
+                "Entry URL": "http://www.acme.com/contact"
+            },
+            "dates": {
+                "Entry Time": 1566145191320
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Window Shopper",
+            "Low Budget"
+        ],
+        "audiences_joined_at": {
+            "Window Shopper": "2019-03-23T12:20:10.250Z",
+            "Low Budget": "2019-06-11T16:24:30.200Z"
+        },
+        "badges": [
+            "Low Interest",
+            "Returning Customer",
+            "Sales Only",
+            "Occasional Buyer"
+        ],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": false,
+            "Has purchased > 10 items": false,
+            "Is subsribed to newsletter": true
+        },
+        "metrics": {
+            "lat": 32.97807314318401,
+            "long": -117.11741546125454,
+            "Average Purchase Value": 14,
+            "Average Value Per Visit": 1.4,
+            "Lifetime total value": 14,
+            "Lifetime purchases": 1,
+            "Days since last visit": 5,
+            "Discount page views": 20,
+            "New arrival page views": 13,
+            "Hat page views": 2,
+            "Jeans page views": 1,
+            "Accesories page views": 7,
+            "Lifetime visits": 10,
+            "Lifetime Referred Visits": 5,
+            "Lifetime events": 55,
+            "Total direct visits": 4,
+            "Total time spent on site in minutes": 181,
+            "Number of logins - Past 90 days": 1,
+            "Future Lifetime Value 12 Months": 16.016617409124777,
+            "Future Lifetime Value": 29.12291791691241
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "Other",
+            "Lifetime devices used (favorite)": "iPhone",
+            "Favorite Top Level Category": "Men",
+            "Email": "karl@gmail.com",
+            "visitor_id": "00c4cb68-81fc-43e6-b322-118f05735d9a"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": true
+            },
+            "properties": {
+                "Active Browser": "IE",
+                "Active Device": "iPad",
+                "Entry URL": "http://www.acme.com/product/about.html"
+            },
+            "dates": {
+                "Entry Time": 1566148911320
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Window Shopper",
+            "Low Budget"
+        ],
+        "audiences_joined_at": {
+            "Window Shopper": "2019-03-23T12:20:10.250Z",
+            "Low Budget": "2019-04-11T16:24:30.200Z"
+        },
+        "badges": [
+            "Occasional Buyer",
+            "Sales Only",
+            "Returning Customer",
+            "Low Interest"
+        ],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": true,
+            "Has purchased > 10 items": false,
+            "Is subsribed to newsletter": false
+        },
+        "metrics": {
+            "lat": 32.97844103185928,
+            "long": -116.79781228999165,
+            "Average Purchase Value": 48,
+            "Average Value Per Visit": 26.181818181818183,
+            "Lifetime total value": 288,
+            "Lifetime purchases": 6,
+            "Days since last visit": 1,
+            "Discount page views": 16,
+            "New arrival page views": 5,
+            "Hat page views": 2,
+            "Jeans page views": 6,
+            "Accesories page views": 6,
+            "Lifetime visits": 11,
+            "Lifetime Referred Visits": 8,
+            "Lifetime events": 43,
+            "Total direct visits": 6,
+            "Total time spent on site in minutes": 193,
+            "Number of logins - Past 90 days": 4,
+            "Future Lifetime Value 12 Months": 289.06568007870976,
+            "Future Lifetime Value": 373.3381245685332
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "IE",
+            "Lifetime devices used (favorite)": "Mac",
+            "Favorite Top Level Category": "Women",
+            "Email": "",
+            "visitor_id": "48ed27f6-3978-4e3a-b465-d06426643644"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": true
+            },
+            "properties": {
+                "Active Browser": "Other",
+                "Active Device": "Android",
+                "Entry URL": "http://www.acme.com/promo.html"
+            },
+            "dates": {
+                "Entry Time": 1566145851320
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Window Shopper",
+            "Low Budget"
+        ],
+        "audiences_joined_at": {
+            "Window Shopper": "2019-01-23T12:20:10.250Z",
+            "Low Budget": "2019-03-11T16:24:30.200Z"
+        },
+        "badges": [
+            "Discount Finder",
+            "Returning Customer",
+            "Sales Only"
+        ],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": true,
+            "Has purchased > 10 items": false,
+            "Is subsribed to newsletter": true
+        },
+        "metrics": {
+            "lat": 32.97980184143725,
+            "long": -117.03996309840352,
+            "Average Purchase Value": 69.5,
+            "Average Value Per Visit": 83.4,
+            "Lifetime total value": 417,
+            "Lifetime purchases": 6,
+            "Days since last visit": 4,
+            "Discount page views": 2,
+            "New arrival page views": 18,
+            "Hat page views": 4,
+            "Jeans page views": 18,
+            "Accesories page views": 12,
+            "Lifetime visits": 5,
+            "Lifetime Referred Visits": 1,
+            "Lifetime events": 20,
+            "Total direct visits": 3,
+            "Total time spent on site in minutes": 149,
+            "Number of logins - Past 90 days": 3,
+            "Future Lifetime Value 12 Months": 494.5832877386418,
+            "Future Lifetime Value": 902.4011773221837
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "Other",
+            "Lifetime devices used (favorite)": "iPhone",
+            "Favorite Top Level Category": "Kids",
+            "Email": "",
+            "visitor_id": "cffd0c27-ff25-481b-bc45-b4b2eec34be9"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": false
+            },
+            "properties": {
+                "Active Browser": "Safari",
+                "Active Device": "Android",
+                "Entry URL": "http://www.acme.com/welcome.html"
+            },
+            "dates": {
+                "Entry Time": 1566145431320
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Low Budget",
+            "Window Shopper"
+        ],
+        "audiences_joined_at": {
+            "Low Budget": "2019-02-23T12:20:10.250Z",
+            "Window Shopper": "2019-01-11T16:24:30.200Z"
+        },
+        "badges": [
+            "Returning Customer",
+            "Sales Only"
+        ],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": false,
+            "Has purchased > 10 items": false,
+            "Is subsribed to newsletter": false
+        },
+        "metrics": {
+            "lat": 32.97852578523508,
+            "long": -117.38803507299909,
+            "Average Purchase Value": 209.33333333333334,
+            "Average Value Per Visit": 34.888888888888886,
+            "Lifetime total value": 628,
+            "Lifetime purchases": 3,
+            "Days since last visit": 4,
+            "Discount page views": 2,
+            "New arrival page views": 10,
+            "Hat page views": 4,
+            "Jeans page views": 1,
+            "Accesories page views": 15,
+            "Lifetime visits": 18,
+            "Lifetime Referred Visits": 5,
+            "Lifetime events": 11,
+            "Total direct visits": 9,
+            "Total time spent on site in minutes": 137,
+            "Number of logins - Past 90 days": 2,
+            "Future Lifetime Value 12 Months": 725.8015160641739,
+            "Future Lifetime Value": 726.1864232962091
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "Safari",
+            "Lifetime devices used (favorite)": "iPhone",
+            "Favorite Top Level Category": "Kids",
+            "Email": "",
+            "visitor_id": "ca0c7600-891f-4235-8a52-b5eb5edf745a"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": false
+            },
+            "properties": {
+                "Active Browser": "Other",
+                "Active Device": "iPad",
+                "Entry URL": "http://www.acme.com/promo.html"
+            },
+            "dates": {
+                "Entry Time": 1566149631320
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Low Budget",
+            "Window Shopper"
+        ],
+        "audiences_joined_at": {
+            "Low Budget": "2019-05-23T12:20:10.250Z",
+            "Window Shopper": "2019-02-11T16:24:30.200Z"
+        },
+        "badges": [
+            "Low Interest"
+        ],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": false,
+            "Has purchased > 10 items": false,
+            "Is subsribed to newsletter": false
+        },
+        "metrics": {
+            "lat": 32.97965665694875,
+            "long": -117.39044772489042,
+            "Average Purchase Value": 243,
+            "Average Value Per Visit": 14.294117647058824,
+            "Lifetime total value": 243,
+            "Lifetime purchases": 1,
+            "Days since last visit": 1,
+            "Discount page views": 7,
+            "New arrival page views": 3,
+            "Hat page views": 5,
+            "Jeans page views": 16,
+            "Accesories page views": 5,
+            "Lifetime visits": 17,
+            "Lifetime Referred Visits": 10,
+            "Lifetime events": 22,
+            "Total direct visits": 9,
+            "Total time spent on site in minutes": 145,
+            "Number of logins - Past 90 days": 4,
+            "Future Lifetime Value 12 Months": 250.45318958461186,
+            "Future Lifetime Value": 357.4937300322396
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "Safari",
+            "Lifetime devices used (favorite)": "iPhone",
+            "Favorite Top Level Category": "Kids",
+            "Email": "rachel@gmail.com",
+            "visitor_id": "558bfae9-716d-4190-b7a9-84da3e35bf23"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": false
+            },
+            "properties": {
+                "Active Browser": "Other",
+                "Active Device": "Android",
+                "Entry URL": "http://www.acme.com/returns"
+            },
+            "dates": {
+                "Entry Time": 1566147351320
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Low Budget",
+            "Discount Shopper"
+        ],
+        "audiences_joined_at": {
+            "Low Budget": "2019-04-23T12:20:10.250Z",
+            "Discount Shopper": "2019-05-11T16:24:30.200Z"
+        },
+        "badges": [
+            "Sales Only",
+            "Discount Finder",
+            "Returning Customer",
+            "Occasional Buyer"
+        ],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": false,
+            "Has purchased > 10 items": false,
+            "Is subsribed to newsletter": true
+        },
+        "metrics": {
+            "lat": 32.97739853877529,
+            "long": -117.08779291654884,
+            "Average Purchase Value": 325.3333333333333,
+            "Average Value Per Visit": 122,
+            "Lifetime total value": 976,
+            "Lifetime purchases": 3,
+            "Days since last visit": 5,
+            "Discount page views": 17,
+            "New arrival page views": 18,
+            "Hat page views": 4,
+            "Jeans page views": 12,
+            "Accesories page views": 14,
+            "Lifetime visits": 8,
+            "Lifetime Referred Visits": 1,
+            "Lifetime events": 23,
+            "Total direct visits": 4,
+            "Total time spent on site in minutes": 171,
+            "Number of logins - Past 90 days": 6,
+            "Future Lifetime Value 12 Months": 1096.5973923928475,
+            "Future Lifetime Value": 2104.487881909054
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "Safari",
+            "Lifetime devices used (favorite)": "Windows",
+            "Favorite Top Level Category": "Kids",
+            "Email": "karl@gmail.com",
+            "visitor_id": "13384c2b-d1bd-4824-bcea-ee81ceda1738"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": false
+            },
+            "properties": {
+                "Active Browser": "Other",
+                "Active Device": "iPhone",
+                "Entry URL": "http://www.acme.com/product/about.html"
+            },
+            "dates": {
+                "Entry Time": 1566149691320
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Low Budget",
+            "Window Shopper"
+        ],
+        "audiences_joined_at": {
+            "Low Budget": "2019-03-23T12:20:10.250Z",
+            "Window Shopper": "2019-05-11T16:24:30.200Z"
+        },
+        "badges": [
+            "Low Interest",
+            "Returning Customer"
+        ],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": false,
+            "Has purchased > 10 items": false,
+            "Is subsribed to newsletter": false
+        },
+        "metrics": {
+            "lat": 32.97969447799553,
+            "long": -117.1966008660923,
+            "Average Purchase Value": 79,
+            "Average Value Per Visit": 39.5,
+            "Lifetime total value": 158,
+            "Lifetime purchases": 2,
+            "Days since last visit": 6,
+            "Discount page views": 6,
+            "New arrival page views": 15,
+            "Hat page views": 0,
+            "Jeans page views": 13,
+            "Accesories page views": 13,
+            "Lifetime visits": 4,
+            "Lifetime Referred Visits": 1,
+            "Lifetime events": 13,
+            "Total direct visits": 2,
+            "Total time spent on site in minutes": 177,
+            "Number of logins - Past 90 days": 0,
+            "Future Lifetime Value 12 Months": 158.53050874275291,
+            "Future Lifetime Value": 225.93058365926535
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "Firefox",
+            "Lifetime devices used (favorite)": "Android",
+            "Favorite Top Level Category": "Women",
+            "Email": "",
+            "visitor_id": "c6fed21a-c8ff-4602-b8e0-cdc476595ffd"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": false
+            },
+            "properties": {
+                "Active Browser": "Safari",
+                "Active Device": "Mac",
+                "Entry URL": "http://www.acme.com/login.html"
+            },
+            "dates": {
+                "Entry Time": 1566147531320
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Discount Shopper",
+            "Window Shopper"
+        ],
+        "audiences_joined_at": {
+            "Discount Shopper": "2019-06-23T12:20:10.250Z",
+            "Window Shopper": "2019-01-11T16:24:30.200Z"
+        },
+        "badges": [
+            "Occasional Buyer",
+            "Low Interest",
+            "Sales Only"
+        ],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": false,
+            "Has purchased > 10 items": false,
+            "Is subsribed to newsletter": false
+        },
+        "metrics": {
+            "lat": 32.9773887877511,
+            "long": -117.23215922059543,
+            "Average Purchase Value": 12.6,
+            "Average Value Per Visit": 3.7058823529411766,
+            "Lifetime total value": 63,
+            "Lifetime purchases": 5,
+            "Days since last visit": 0,
+            "Discount page views": 0,
+            "New arrival page views": 16,
+            "Hat page views": 6,
+            "Jeans page views": 18,
+            "Accesories page views": 11,
+            "Lifetime visits": 17,
+            "Lifetime Referred Visits": 6,
+            "Lifetime events": 96,
+            "Total direct visits": 9,
+            "Total time spent on site in minutes": 178,
+            "Number of logins - Past 90 days": 2,
+            "Future Lifetime Value 12 Months": 78.176673064303,
+            "Future Lifetime Value": 114.2864984354149
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "Safari",
+            "Lifetime devices used (favorite)": "Mac",
+            "Favorite Top Level Category": "Men",
+            "Email": "jenny@gmail.com",
+            "visitor_id": "cca7b114-3180-437b-9e94-4f472379de31"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": true
+            },
+            "properties": {
+                "Active Browser": "Safari",
+                "Active Device": "Android",
+                "Entry URL": "http://www.acme.com/contact"
+            },
+            "dates": {
+                "Entry Time": 1566145371320
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Window Shopper",
+            "Low Budget"
+        ],
+        "audiences_joined_at": {
+            "Window Shopper": "2019-03-23T12:20:10.250Z",
+            "Low Budget": "2019-01-11T16:24:30.200Z"
+        },
+        "badges": [
+            "Sales Only",
+            "Discount Finder"
+        ],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": false,
+            "Has purchased > 10 items": false,
+            "Is subsribed to newsletter": true
+        },
+        "metrics": {
+            "lat": 32.979410441156965,
+            "long": -116.80464505361029,
+            "Average Purchase Value": 157,
+            "Average Value Per Visit": 41.31578947368421,
+            "Lifetime total value": 785,
+            "Lifetime purchases": 5,
+            "Days since last visit": 5,
+            "Discount page views": 17,
+            "New arrival page views": 5,
+            "Hat page views": 1,
+            "Jeans page views": 15,
+            "Accesories page views": 19,
+            "Lifetime visits": 19,
+            "Lifetime Referred Visits": 5,
+            "Lifetime events": 92,
+            "Total direct visits": 10,
+            "Total time spent on site in minutes": 153,
+            "Number of logins - Past 90 days": 5,
+            "Future Lifetime Value 12 Months": 859.4133258775068,
+            "Future Lifetime Value": 1230.8095232075466
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "Safari",
+            "Lifetime devices used (favorite)": "Android",
+            "Favorite Top Level Category": "Men",
+            "Email": "karl@gmail.com",
+            "visitor_id": "373036c9-a789-4666-9df3-86a58b69667d"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": false
+            },
+            "properties": {
+                "Active Browser": "Other",
+                "Active Device": "Windows",
+                "Entry URL": "http://www.acme.com/product/about.html"
+            },
+            "dates": {
+                "Entry Time": 1566150411320
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Low Budget",
+            "Discount Shopper"
+        ],
+        "audiences_joined_at": {
+            "Low Budget": "2019-04-23T12:20:10.250Z",
+            "Discount Shopper": "2019-05-11T16:24:30.200Z"
+        },
+        "badges": [
+            "Sales Only",
+            "Discount Finder"
+        ],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": false,
+            "Has purchased > 10 items": false,
+            "Is subsribed to newsletter": true
+        },
+        "metrics": {
+            "lat": 32.97816607230016,
+            "long": -117.09148725159733,
+            "Average Purchase Value": 128.33333333333334,
+            "Average Value Per Visit": 19.25,
+            "Lifetime total value": 385,
+            "Lifetime purchases": 3,
+            "Days since last visit": 2,
+            "Discount page views": 1,
+            "New arrival page views": 9,
+            "Hat page views": 4,
+            "Jeans page views": 17,
+            "Accesories page views": 8,
+            "Lifetime visits": 20,
+            "Lifetime Referred Visits": 6,
+            "Lifetime events": 56,
+            "Total direct visits": 10,
+            "Total time spent on site in minutes": 110,
+            "Number of logins - Past 90 days": 6,
+            "Future Lifetime Value 12 Months": 426.29490663436144,
+            "Future Lifetime Value": 617.9087352565608
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "Safari",
+            "Lifetime devices used (favorite)": "Windows",
+            "Favorite Top Level Category": "Men",
+            "Email": "",
+            "visitor_id": "1be21fcd-1c22-4337-8351-ce4395f4975a"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": true
+            },
+            "properties": {
+                "Active Browser": "IE",
+                "Active Device": "Mac",
+                "Entry URL": "http://www.acme.com/welcome.html"
+            },
+            "dates": {
+                "Entry Time": 1566149751320
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Window Shopper",
+            "Low Budget"
+        ],
+        "audiences_joined_at": {
+            "Window Shopper": "2019-04-23T12:20:10.250Z",
+            "Low Budget": "2019-02-11T16:24:30.200Z"
+        },
+        "badges": [
+            "Returning Customer"
+        ],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": false,
+            "Has purchased > 10 items": false,
+            "Is subsribed to newsletter": false
+        },
+        "metrics": {
+            "lat": 32.97989064988861,
+            "long": -116.75921244412001,
+            "Average Purchase Value": 460,
+            "Average Value Per Visit": 70.76923076923077,
+            "Lifetime total value": 920,
+            "Lifetime purchases": 2,
+            "Days since last visit": 5,
+            "Discount page views": 0,
+            "New arrival page views": 8,
+            "Hat page views": 5,
+            "Jeans page views": 11,
+            "Accesories page views": 11,
+            "Lifetime visits": 13,
+            "Lifetime Referred Visits": 7,
+            "Lifetime events": 54,
+            "Total direct visits": 5,
+            "Total time spent on site in minutes": 121,
+            "Number of logins - Past 90 days": 5,
+            "Future Lifetime Value 12 Months": 983.1407667763115,
+            "Future Lifetime Value": 1809.478495436063
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "Other",
+            "Lifetime devices used (favorite)": "iPhone",
+            "Favorite Top Level Category": "Men",
+            "Email": "",
+            "visitor_id": "2525e396-a4c0-4154-b816-a6a64c50c0ed"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": false
+            },
+            "properties": {
+                "Active Browser": "IE",
+                "Active Device": "Windows",
+                "Entry URL": "http://www.acme.com/returns"
+            },
+            "dates": {
+                "Entry Time": 1566145551320
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Discount Shopper",
+            "Low Budget"
+        ],
+        "audiences_joined_at": {
+            "Discount Shopper": "2019-02-23T12:20:10.250Z",
+            "Low Budget": "2019-03-11T16:24:30.200Z"
+        },
+        "badges": [
+            "Occasional Buyer",
+            "Sales Only",
+            "Low Interest",
+            "Discount Finder"
+        ],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": true,
+            "Has purchased > 10 items": false,
+            "Is subsribed to newsletter": false
+        },
+        "metrics": {
+            "lat": 32.97816955595387,
+            "long": -117.10612341426496,
+            "Average Purchase Value": 102.85714285714286,
+            "Average Value Per Visit": 45,
+            "Lifetime total value": 720,
+            "Lifetime purchases": 7,
+            "Days since last visit": 5,
+            "Discount page views": 1,
+            "New arrival page views": 11,
+            "Hat page views": 5,
+            "Jeans page views": 5,
+            "Accesories page views": 9,
+            "Lifetime visits": 16,
+            "Lifetime Referred Visits": 13,
+            "Lifetime events": 31,
+            "Total direct visits": 6,
+            "Total time spent on site in minutes": 123,
+            "Number of logins - Past 90 days": 5,
+            "Future Lifetime Value 12 Months": 814.9782569185818,
+            "Future Lifetime Value": 1360.1711446048828
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "Firefox",
+            "Lifetime devices used (favorite)": "iPhone",
+            "Favorite Top Level Category": "Women",
+            "Email": "",
+            "visitor_id": "904b54ee-540e-42de-829d-c9fc91bcbdd7"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": false
+            },
+            "properties": {
+                "Active Browser": "Firefox",
+                "Active Device": "Windows",
+                "Entry URL": "http://www.acme.com/shipping_info"
+            },
+            "dates": {
+                "Entry Time": 1566147471320
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Window Shopper",
+            "Low Budget"
+        ],
+        "audiences_joined_at": {
+            "Window Shopper": "2019-02-23T12:20:10.250Z",
+            "Low Budget": "2019-03-11T16:24:30.200Z"
+        },
+        "badges": [
+            "Returning Customer",
+            "Occasional Buyer",
+            "Low Interest"
+        ],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": true,
+            "Has purchased > 10 items": false,
+            "Is subsribed to newsletter": false
+        },
+        "metrics": {
+            "lat": 32.97865074563732,
+            "long": -117.2000627064,
+            "Average Purchase Value": 122.42857142857143,
+            "Average Value Per Visit": 95.22222222222223,
+            "Lifetime total value": 857,
+            "Lifetime purchases": 7,
+            "Days since last visit": 6,
+            "Discount page views": 17,
+            "New arrival page views": 9,
+            "Hat page views": 2,
+            "Jeans page views": 13,
+            "Accesories page views": 11,
+            "Lifetime visits": 9,
+            "Lifetime Referred Visits": 5,
+            "Lifetime events": 88,
+            "Total direct visits": 3,
+            "Total time spent on site in minutes": 197,
+            "Number of logins - Past 90 days": 4,
+            "Future Lifetime Value 12 Months": 972.3536494988683,
+            "Future Lifetime Value": 1218.1774278743364
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "Other",
+            "Lifetime devices used (favorite)": "Windows",
+            "Favorite Top Level Category": "Kids",
+            "Email": "john@gmail.com",
+            "visitor_id": "c35a61f7-fa3e-4b3c-aa0b-9078d7030011"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": false
+            },
+            "properties": {
+                "Active Browser": "Chrome",
+                "Active Device": "Windows",
+                "Entry URL": "http://www.acme.com/shipping_info"
+            },
+            "dates": {
+                "Entry Time": 1566148071320
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Window Shopper",
+            "Discount Shopper"
+        ],
+        "audiences_joined_at": {
+            "Window Shopper": "2019-01-23T12:20:10.250Z",
+            "Discount Shopper": "2019-02-11T16:24:30.200Z"
+        },
+        "badges": [
+            "Discount Finder"
+        ],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": false,
+            "Has purchased > 10 items": false,
+            "Is subsribed to newsletter": true
+        },
+        "metrics": {
+            "lat": 32.978052553547684,
+            "long": -116.76067653594487,
+            "Average Purchase Value": 195.6,
+            "Average Value Per Visit": 163,
+            "Lifetime total value": 978,
+            "Lifetime purchases": 5,
+            "Days since last visit": 2,
+            "Discount page views": 18,
+            "New arrival page views": 10,
+            "Hat page views": 0,
+            "Jeans page views": 17,
+            "Accesories page views": 15,
+            "Lifetime visits": 6,
+            "Lifetime Referred Visits": 2,
+            "Lifetime events": 19,
+            "Total direct visits": 3,
+            "Total time spent on site in minutes": 164,
+            "Number of logins - Past 90 days": 4,
+            "Future Lifetime Value 12 Months": 1041.7974433575043,
+            "Future Lifetime Value": 2009.7179737276956
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "Chrome",
+            "Lifetime devices used (favorite)": "Windows",
+            "Favorite Top Level Category": "Kids",
+            "Email": "bob@gmail.com",
+            "visitor_id": "50b76163-ec17-4a51-82be-b137961f840d"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": false
+            },
+            "properties": {
+                "Active Browser": "Firefox",
+                "Active Device": "iPad",
+                "Entry URL": "http://www.acme.com/product/39"
+            },
+            "dates": {
+                "Entry Time": 1566149211320
+            }
+        }
+    },
+    {
+        "audiences": [
+            "Window Shopper",
+            "Low Budget"
+        ],
+        "audiences_joined_at": {
+            "Window Shopper": "2019-06-23T12:20:10.250Z",
+            "Low Budget": "2019-04-11T16:24:30.200Z"
+        },
+        "badges": [],
+        "dates": {
+            "First visit": 1550257892000,
+            "Last visit": 1562341900000,
+            "Last purchase": 1562341800000
+        },
+        "flags": {
+            "Returning visitor": true,
+            "Has purchased > 5 items": false,
+            "Has purchased > 10 items": false,
+            "Is subsribed to newsletter": false
+        },
+        "metrics": {
+            "lat": 32.97966136346698,
+            "long": -116.78410285996235,
+            "Average Purchase Value": 104,
+            "Average Value Per Visit": 14.857142857142858,
+            "Lifetime total value": 312,
+            "Lifetime purchases": 3,
+            "Days since last visit": 2,
+            "Discount page views": 13,
+            "New arrival page views": 18,
+            "Hat page views": 2,
+            "Jeans page views": 7,
+            "Accesories page views": 19,
+            "Lifetime visits": 21,
+            "Lifetime Referred Visits": 7,
+            "Lifetime events": 50,
+            "Total direct visits": 7,
+            "Total time spent on site in minutes": 131,
+            "Number of logins - Past 90 days": 5,
+            "Future Lifetime Value 12 Months": 326.93825866419456,
+            "Future Lifetime Value": 423.6400876368303
+        },
+        "properties": {
+            "Lifetime browser types used (favorite)": "Firefox",
+            "Lifetime devices used (favorite)": "Mac",
+            "Favorite Top Level Category": "Men",
+            "Email": "aaron@gmail.com",
+            "visitor_id": "91c9ed6e-242c-48e3-99f0-b704f3ad9e91"
+        },
+        "current_visit": {
+            "flags": {
+                "Is Direct Visit": true
+            },
+            "properties": {
+                "Active Browser": "Safari",
+                "Active Device": "iPhone",
+                "Entry URL": "http://www.acme.com/returns"
+            },
+            "dates": {
+                "Entry Time": 1566147111320
+            }
+        }
+    }
+]
+]
