@@ -4,14 +4,16 @@
   "description": "return visitor api info if available",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server/index.js"
   },
   "author": "Michael Learo",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.19.0",
     "express": "^4.16.3",
     "forever-monitor": "^1.7.1",
     "nodemailer": "^4.6.7",
-    "nodemon": "^1.18.2"
+    "nodemon": "^1.19.1"
   }
 }
