@@ -48,7 +48,7 @@ async function n(k, v, res, type){
 function filtArray(arr, filt){
   let temp = {};
   filt.forEach((i) => {
-             temp[i] = arr[i]
+        temp[i] = arr[i]
     })
   return temp;  
 }
