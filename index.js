@@ -58,8 +58,12 @@ function getParts(r){
 		url.parse(r.url,true).query,
 		attributeMappings[url.parse(r.url,true).query['attr'].toLowerCase()],
 		url.parse(r.url,true).query['value']
-		 ]
+		]
 }
+
+
+
+
 app.use('/public',express.static('public'));
 
 app.get('/', (req, res) => res.end(index))
